@@ -841,12 +841,12 @@ references:
 - annote: "Contains a semantics for deontic operators different from
     ([@TMS:FINCAC-1] and [@TMS:FINCAC-2])."
   author:
-  - family: Korbmacher
-    given: Johannes
   - family: Anglberger
     given: Albert J. J.
   - family: Faroldi
     given: Federico LG
+  - family: Korbmacher
+    given: Johannes
   container-title: Deontic logic and normative systems. 13th
     international conference, DEON 2016, bayeruth, germany, july 18-21,
     2016
