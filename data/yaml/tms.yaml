@@ -979,16 +979,16 @@ references:
   author:
   - family: Moltman
     given: Friederike
-  collection-number: 1
   container-title: Philosophical Issues
   doi: 10.1111/phis.12124
   id: "TMS:MOLAOB"
+  issue: 1
   issued: 2018
   keyword: linguistics
   other-ids: "tms-moltman:2018"
   page: 255-288
   title: An object-based truthmaker semantics for modals
-  type: paper-conference
+  type: article-journal
   volume: 28
 - annote: Applications of exact truthmaker semantics in linguistics.
   author:

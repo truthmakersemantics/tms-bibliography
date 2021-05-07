@@ -1511,9 +1511,9 @@
         "given": "Friederike"
       }
     ],
-    "collection-number": "1",
     "container-title": "Philosophical Issues",
     "id": "TMS:MOLAOB",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
@@ -1525,7 +1525,7 @@
     "other-ids": "tms-moltman:2018",
     "page": "255-288",
     "title": "An object-based truthmaker semantics for modals",
-    "type": "paper-conference",
+    "type": "article-journal",
     "volume": "28"
   },
   {
