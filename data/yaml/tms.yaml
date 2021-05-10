@@ -1,11 +1,10 @@
 ---
 nocite: "[@*]"
 references:
-- annote: "This paper provides a exact truthmaker-based semantics for
-    the conflict-tolerant deontic logic **BDL** (bringing the long
-    search for a semantics to an end). The clause for the obligation
-    operator is notably different from the ones in
-    ([@TMS:FINCAC-1; @TMS:FINCAC-2])."
+- annote: This paper provides a exact truthmaker-based semantics for the
+    conflict-tolerant deontic logic BDL (bringing the long search for a
+    semantics to an end). The clause for the obligation operator is
+    notably different from the ones in (Fine 2018b,c).
   author:
   - family: Anglberger
     given: Albert
@@ -46,8 +45,7 @@ references:
     of affairs based on truthmaker-considerations (with reference to
     earlier work by Jago); (iii) §6.5 (p. 139--140) contains a
     discussion of a truthmaker of the ternary relation in the semantics
-    for relevance logic, based on/referencing ([@TMS:RESTEN] and
-    [@TMS:JAGRWI])."
+    for relevance logic, based on/referencing (Jago 2013)."
   author:
   - family: Berto
     given: Francesco
@@ -62,7 +60,7 @@ references:
   publisher-place: Oxford, UK
   title: Impossible worlds
   type: book
-- annote: "Seems to be a proceedings/talk version of ([@TMS:BURPAM])."
+- annote: Seems to be a proceedings/talk version of (Burke 2019b).
   author:
   - family: Burke
     given: Luke
@@ -85,9 +83,9 @@ references:
     hyperintensional side effects
   type: paper-conference
   url: "https://www.aclweb.org/anthology/W19-1104.pdf"
-- annote: "Modifies HYPE (from [@TMS:LEIHAS]) using monads from category
+- annote: Modifies HYPE (Leitgeb 2019) using monads from category
     theory. From a truthmaker semantics perspective, it's probably best
-    viewed as a variant of inexact truthmaker semantics."
+    viewed as a variant of inexact truthmaker semantics.
   author:
   - family: Burke
     given: Luke
@@ -108,7 +106,7 @@ references:
     truthmaking: the claim that we can define exact in terms of inexact
     truthmaking and not the other way around (which is what we
     standardly assume in the exact truthmaking literature). Best enjoyed
-    together with ([@TMS:LEIETA])."
+    together with (Leitgeb 2020)."
   author:
   - family: Deigan
     given: Michael
@@ -121,8 +119,8 @@ references:
   page: 1-22
   title: A plea for inexact truthmaking
   type: article-journal
-- annote: "Applies the theory from ([@TMS:ELGTSF]) to argue for certain
-    claims in the context of the physicalism debate."
+- annote: Applies the theory from (Elgin 2018a) to argue for certain
+    claims in the context of the physicalism debate.
   author:
   - family: Elgin
     given: Samuel
@@ -147,8 +145,8 @@ references:
   title: The semantic foundations of philosophical analysis
   type: manuscript
   url: "https://philarchive.org/archive/ELGTSF"
-- annote: "Presents a problem for the exact truthmaker semantics for
-    counterfactuals developed in ([@TMS:FINCWP])"
+- annote: Presents a problem for the exact truthmaker semantics for
+    counterfactuals developed in (Fine 2012b)
   author:
   - family: Embry
     given: Brian
@@ -200,12 +198,12 @@ references:
   title: Negation and events as truthmakers
   type: paper-conference
   url: "https://semanticsarchive.net/Archive/mVkOTk2N/AC2015-proceedings.pdf"
-- annote: "This review of Lewis's *Counterfactuals* makes an indirect
+- annote: This review of Lewis's *Counterfactuals* makes an indirect
     appeal to the intuitive idea behind the exact truthmaker clauses in
     the context of the problem of disjunctive simplification in
     counterfactuals (p. 454). But he doesn't go into much detail nor
     does he make reference to the formal clauses. The paper doesn't
-    reference ([@TMS:FRAFAT])."
+    reference (Fraassen 1969).
   author:
   - family: Fine
     given: Kit
@@ -214,14 +212,14 @@ references:
   issue: 335
   issued: 1975
   keyword: philosophy, conditionals, background, exact truthmaking
-  other-ids: "tms-fine:1975a"
+  other-ids: "tms-fine:1975"
   page: 451-458
   title: Critical notice
   type: article-journal
   url: "http://www.jstor.org/stable/2253565"
   volume: 84
-- annote: "Gives an argument for the hyperintensionality of
-    counterfactuals. Companion to [@TMS:FINCWP]."
+- annote: Gives an argument for the hyperintensionality of
+    counterfactuals. Companion to (Fine 2012b).
   author:
   - family: Fine
     given: Kit
@@ -237,9 +235,9 @@ references:
     counterfactuals
   type: article-journal
   volume: 189
-- annote: "Contains an argument for the hyperintensionality of
+- annote: Contains an argument for the hyperintensionality of
     counterfactuals and an exact truthmaker semantics for (non-iterated)
-    counterfactuals. Great in combination with ([@TMS:FINADF])."
+    counterfactuals. Great in combination with (Fine 2012a).
   author:
   - family: Fine
     given: Kit
@@ -276,8 +274,8 @@ references:
   publisher-place: Cambridge, UK
   title: Guide to ground
   type: chapter
-- annote: "Contains a version of the semantics from ([@TMS:FINGTG]) for
-    a logic of ground without logical connectives."
+- annote: Contains a version of the semantics from (Fine 2012c) for a
+    logic of ground without logical connectives.
   author:
   - family: Fine
     given: Kit
@@ -347,9 +345,8 @@ references:
   title: Angellic content
   type: article-journal
   volume: 45
-- annote: "Together with ([@TMS:FINATO-2]), this outlines a (formal)
-    theory of propositions as sets of truthmakers (or constructs
-    thereof)."
+- annote: Together with (FIne 2017b), this outlines a (formal) theory of
+    propositions as sets of truthmakers (or constructs thereof).
   author:
   - family: Fine
     given: Kit
@@ -366,9 +363,8 @@ references:
   title-short: A theory of truthmaker content i
   type: article-journal
   volume: 46
-- annote: "Together with ([@TMS:FINATO-1]), this outlines a (formal)
-    theory of propositions as sets of truthmakers (or constructs
-    thereof)."
+- annote: Together with (Fine 2017a), this outlines a (formal) theory of
+    propositions as sets of truthmakers (or constructs thereof).
   author:
   - family: Fine
     given: Kit
@@ -429,10 +425,9 @@ references:
   publisher-place: Oxford, UK
   title: The world of truth-making
   type: article-journal
-- annote: "Together with ([@TMS:FINCAC-2]) a fairly comprehensive
-    treatment of deontic/normative concepts in exact truthmaker
-    semantics. The treatment notably doesn't cover iterated deontics
-    etc."
+- annote: Together with (Fine 2018c) a fairly comprehensive treatment of
+    deontic/normative concepts in exact truthmaker semantics. The
+    treatment notably doesn't cover iterated deontics etc.
   author:
   - family: Fine
     given: Kit
@@ -448,10 +443,9 @@ references:
   title-short: Compliance and command i
   type: article-journal
   volume: 11
-- annote: "Together with ([@TMS:FINCAC-2]) a fairly comprehensive
-    treatment of deontic/normative concepts in exact truthmaker
-    semantics. The treatment notably doesn't cover iterated deontics
-    etc."
+- annote: Together with (Fine 2018c) a fairly comprehensive treatment of
+    deontic/normative concepts in exact truthmaker semantics. The
+    treatment notably doesn't cover iterated deontics etc.
   author:
   - family: Fine
     given: Kit
@@ -493,9 +487,9 @@ references:
   page: 1-38
   title: Verisimilitude and truthmaking
   type: article-journal
-- annote: "Critical discussion of Yablo's inexact truthmaker account of
-    aboutness and subject-matter from ([@TMS:YABABO]) coming from an
-    exact truthmaker perspective."
+- annote: Critical discussion of Yablo's inexact truthmaker account of
+    aboutness and subject-matter from (Yablo 2014) coming from an exact
+    truthmaker perspective.
   author:
   - family: Fine
     given: Kit
@@ -550,10 +544,10 @@ references:
   title: Facts and tautological entailments
   type: article-journal
   volume: 66
-- annote: "In this article, the exact clauses occur in the context of a
+- annote: In this article, the exact clauses occur in the context of a
     semantic analysis of adverbs and a fine-grained theory of properties
     (p. 123). In footnote 11, van Fraassen traces the semantic approach
-    to his earlier paper ([@TMS:FRAFAT])."
+    to his earlier paper (Fraassen 1969).
   author:
   - dropping-particle: van
     family: Fraassen
@@ -601,9 +595,9 @@ references:
   title: Hyperintensionality
   type: thesis
   url: "http://www.illc.uva.nl/Research/Publications/Reports/MoL-2016-24.text.pdf"
-- annote: "Provides an exact truthmaker semantics for indicative
+- annote: Provides an exact truthmaker semantics for indicative
     conditionals starting from Fine's semantics for counterfactuals in
-    ([@TMS:FINCWP])."
+    (Fine 2012b).
   author:
   - family: Güngör
     given: Hüseyin
@@ -616,8 +610,8 @@ references:
   title: Exact semantics for indicative conditionals
   type: thesis
   url: "https://philpapers.org/rec/GUNESF"
-- annote: "Discusses or-to-if inferences in the semantics developed in
-    ([@TMS:GUNESF] and [@TMS:GUNTIC])."
+- annote: Discusses or-to-if inferences in the semantics developed in
+    (Güngör 2017 and 2019c).
   author:
   - family: Güngör
     given: Hüseyin
@@ -627,9 +621,9 @@ references:
   title: Or-to-if inferences in contextualist truthmaker semantics
   type: manuscript
   url: "https://www.academia.edu/36639638/\\_Or_to_if_Inferences_in_Contextualist_Truthmaker_Semantics"
-- annote: "Analyses the Two Stitches puzzle from Ciardelli, Champollion,
+- annote: Analyses the Two Stitches puzzle from Ciardelli, Champollion,
     and Zhang using Fine's exact truthmaker semantics for
-    counterfactuals from ([@TMS:FINCWP])"
+    counterfactuals from (Fine 2012b)
   author:
   - family: Güngör
     given: Hüseyin
@@ -639,7 +633,7 @@ references:
   title: Two switches and truthmaker semantics
   type: manuscript
   url: "https://www.academia.edu/42813176/Two_Switches_and_Truthmaker_Semantics"
-- annote: "Paper-length exposition of the semantics in ([@TMS:GUNESF])."
+- annote: Paper-length exposition of the semantics in (Güngör 2017).
   author:
   - family: Güngör
     given: Hüseyin
@@ -649,8 +643,8 @@ references:
   title: Truthmaking indicative conditionals
   type: manuscript
   url: "https://www.academia.edu/36278426/Truthmaking\\\\\\_Indicative\\\\\\_Conditionals"
-- annote: "This paper is mentioned by ([@TMS:FINCNO]) as an explicit
-    precursor to exact truthmaker semantics."
+- annote: This paper is mentioned by (Fine 1975) as an explicit
+    precursor to exact truthmaker semantics.
   author:
   - family: Groenendijk
     given: Jeroen
@@ -682,8 +676,8 @@ references:
   title: Truthmaker semantics for epistemic logic
   type: chapter
   url: "https://eprints.illc.uva.nl/1742/1/Truthmakers_EL_9.pdf"
-- annote: "Discusses whether truthmaking implies relevance. Makes
-    explicit reference to ([@TMS:FRAFAT] and [@TMS:RESTEN])."
+- annote: Discusses whether truthmaking implies relevance. Makes
+    explicit reference to (Fraassen 1969 and Restall 1996).
   author:
   - family: Heathcote
     given: Adrian
@@ -698,10 +692,10 @@ references:
   type: article-journal
   url: "https://www.jstor.org/stable/44084755"
   volume: 46
-- annote: "Surveys various \"logics of synonymy,\" i.e. logical systems
+- annote: Surveys various "logics of synonymy," i.e. logical systems
     based on a synonymy operator. Uses **AC** with the semantics from
-    ([@TMS:FINACO]) as one of its benchmarks. Contains an interesting
-    no-go theorem that applies to **AC**."
+    (Fine 2016) as one of its benchmarks. Contains an interesting no-go
+    theorem that applies to **AC**.
   author:
   - family: Hornischer
     given: Levin
@@ -716,9 +710,9 @@ references:
   title: Logics of synonymy
   type: article-journal
   volume: 49
-- annote: "Mentioned by Fine ([@TMS:FINTSE p. 575]) as an \\\"early
-    adopter\\\" of the exact clauses. Concerns adverbial constructions,
-    similar to ([@TMS:FRAEIA])."
+- annote: Mentioned by Fine (Fine 2017, p. 575) as an \"early adopter\"
+    of the exact clauses. Concerns adverbial constructions, similar to
+    (Fraassen 1973).
   author:
   - family: Hwang
     given: Chung Hee
@@ -745,8 +739,8 @@ references:
     processing"
   title-short: Episodic logic
   type: paper-conference
-- annote: "Contains a brief discussion of truthmakers and their relation
-    to relevant logic ([@TMS:RESTEN])."
+- annote: Contains a brief discussion of truthmakers and their relation
+    to relevant logic (Restall 1996).
   author:
   - family: Jago
     given: Mark
@@ -790,9 +784,9 @@ references:
   title: Truthmaker semantics for relevant logic
   type: article-journal
   volume: 49
-- annote: "Further refines ideas of ([@TMS:JAGTSF]) in the context of
-    the relation of disjunctive parts (in contrast to the concept of
-    conjunctive parts discussed, e.g., in ([@TMS:FINACO]))."
+- annote: Further refines ideas of (Jago 2020) in the context of the
+    relation of disjunctive parts (in contrast to the concept of
+    conjunctive parts discussed, e.g., in (Fine 2016)).
   author:
   - family: Jago
     given: Mark
@@ -819,9 +813,8 @@ references:
   title: Two-dimensional truthmaker semantics
   type: manuscript
   url: "https://philarchive.org/archive/KHUTTS-2"
-- annote: "Evaluates the exact truthmaker semantics for intuitionistic
-    logic from ([@TMS:FINTSF]) by comparing it to Martin-Löf type
-    theory."
+- annote: Evaluates the exact truthmaker semantics for intuitionistic
+    logic from (Fine 2014a) by comparing it to Martin-Löf type theory.
   author:
   - family: Klev
     given: Ansten
@@ -840,8 +833,8 @@ references:
   title: "Truthmaker semantics: Fine versus martin-löf"
   title-short: Truthmaker semantics
   type: paper-conference
-- annote: "Contains a semantics for deontic operators different from
-    ([@TMS:FINCAC-1] and [@TMS:FINCAC-2])."
+- annote: Contains a semantics for deontic operators different from
+    (Fine 2018b and 2018c).
   author:
   - family: Anglberger
     given: Albert J. J.
@@ -932,9 +925,9 @@ references:
   title-short: HYPE
   type: article-journal
   volume: 48
-- annote: "Explains the philosophical idea behind a proposal for
-    defining inexact in terms of exact truthmaking (contra \"tradition\").
-    Good pairing with ([@TMS:DEIAPF])."
+- annote: Explains the philosophical idea behind a proposal for defining
+    inexact in terms of exact truthmaking (contra "tradition"). Good
+    pairing with (Deigan 2019a).
   author:
   - family: Leitgeb
     given: Hannes
@@ -1026,11 +1019,11 @@ references:
   title-short: Truthmaker semantics for natural language
   type: article-journal
   volume: 46
-- annote: "Compares HYPE ([@TMS:LEIHAS]) to Heyting-Ockam logic.
-    Contains a characterization of HYPE as identical to a modal system
-    introduced by Moisil. From the perspective of truthmaker semantics,
-    these results can be understood as results about (a certain kind of)
-    ineact truthmaker semantics."
+- annote: Compares HYPE to Heyting-Ockam logic. Contains a
+    characterization of HYPE as identical to a modal system introduced
+    by Moisil. From the perspective of truthmaker semantics, these
+    results can be understood as results about (a certain kind of)
+    inexact truthmaker semantics.
   author:
   - family: Odintsov
     given: Sergei
@@ -1074,7 +1067,7 @@ references:
   title: Truthmakers, entailment, and necessity
   type: article-journal
   volume: 74
-- annote: "Provides a model for the proposal from ([@TMS:RESTEN])."
+- annote: Provides a model for the proposal from (Restall 1996).
   author:
   - family: Restall
     given: Greg
