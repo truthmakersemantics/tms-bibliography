@@ -148,6 +148,31 @@
     "volume": "23"
   },
   {
+    "DOI": "10.1017/S1755020315000258",
+    "author": [
+      {
+        "family": "Correia",
+        "given": "Fabrice"
+      }
+    ],
+    "container-title": "The Review of Symbolic Logic",
+    "id": "TMS:COROTL",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "logic, exact truthmaking",
+    "other-ids": "tms-correia:2016",
+    "page": "103-122",
+    "title": "On the logic of factual equivalence",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
     "DOI": "10.1007/s10988-019-09279-2",
     "annote": "Provides an interesting argument for the primacy of inexact truthmaking: the claim that we can define exact in terms of inexact truthmaking and not the other way around (which is what we standardly assume in the exact truthmaking literature). Best enjoyed together with (Leitgeb 2020).",
     "author": [
@@ -1688,6 +1713,28 @@
     "title": "Modelling truthmaking",
     "type": "article-journal",
     "volume": "43"
+  },
+  {
+    "URL": "https://eprints.illc.uva.nl/id/eprint/1792",
+    "author": [
+      {
+        "family": "Rosella",
+        "given": "Giuliano"
+      }
+    ],
+    "genre": "Master’s thesis",
+    "id": "TMS:ROSATS",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "other-ids": "tms-rosella:2019",
+    "publisher": "University of Amsterdam, Institute for Logic, Language,; Computation",
+    "title": "A truthmaker semantics approach to modal logic",
+    "type": "thesis"
   },
   {
     "DOI": "10.1007/s11098-016-0759-3",

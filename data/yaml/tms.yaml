@@ -102,6 +102,20 @@ references:
   title-short: P-HYPE
   type: article-journal
   volume: 23
+- author:
+  - family: Correia
+    given: Fabrice
+  container-title: The Review of Symbolic Logic
+  doi: 10.1017/S1755020315000258
+  id: "TMS:COROTL"
+  issue: 1
+  issued: 2016
+  keyword: logic, exact truthmaking
+  other-ids: "tms-correia:2016"
+  page: 103-122
+  title: On the logic of factual equivalence
+  type: article-journal
+  volume: 9
 - annote: "Provides an interesting argument for the primacy of inexact
     truthmaking: the claim that we can define exact in terms of inexact
     truthmaking and not the other way around (which is what we
@@ -1082,6 +1096,18 @@ references:
   type: article-journal
   url: "https://www.jstor.org/stable/44074525"
   volume: 43
+- author:
+  - family: Rosella
+    given: Giuliano
+  genre: Master's thesis
+  id: "TMS:ROSATS"
+  issued: 2019
+  other-ids: "tms-rosella:2019"
+  publisher: University of Amsterdam, Institute for Logic, Language,;
+    Computation
+  title: A truthmaker semantics approach to modal logic
+  type: thesis
+  url: "https://eprints.illc.uva.nl/id/eprint/1792"
 - author:
   - family: Rothschild
     given: Daniel
