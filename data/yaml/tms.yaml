@@ -897,11 +897,13 @@ references:
   container-title: Philosophy and Phenomenological Research
   doi: 10.1111/phpr.12692
   id: "TMS:KRASTW"
-  issued: 2020
+  issued: 2021
   keyword: philosophy, applications, exact truthmaking
   other-ids: "tms-kraemer:2020a"
+  page: 40-56
   title: Singular troubles with singleton socrates
   type: article-journal
+  volume: 103
 - annote: Formulates an account of what it means to give the "whole
     truth" and formally models it in exact truthmaker semantics.
   author:
