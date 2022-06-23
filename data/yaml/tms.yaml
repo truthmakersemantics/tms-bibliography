@@ -1,855 +1,7 @@
 ---
 nocite: "[@*]"
 references:
-- annote: This paper provides a exact truthmaker-based semantics for the
-    conflict-tolerant deontic logic BDL (bringing the long search for a
-    semantics to an end). The clause for the obligation operator is
-    notably different from the ones in (Fine 2018b,c).
-  author:
-  - family: Anglberger
-    given: Albert
-  - family: Korbmacher
-    given: Johannes
-  container-title: Studia Logica
-  doi: 10.1007/s11225-019-09862-5
-  id: "TMS:ANGTAN"
-  issue: 1
-  issued: 2020
-  keyword: logic, normativity, applications, exact truthmaking
-  other-ids: "tms-anglberger-korbmacher:2020a"
-  page: 49-83
-  title: Truthmakers and normative conflicts
-  type: article-journal
-  volume: 108
-- annote: In this note, van Benthem provides a translation of the exact
-    truthmaker framework into Modal Information Logic. It contains a
-    very useful discussion of the result and possible ways in which
-    truthmaker semantics and modal logic approaches can inform each
-    other.
-  author:
-  - dropping-particle: van
-    family: Benthem
-    given: Johan
-  id: "TMS:BENTTMS"
-  issued: 2017
-  keyword: logic, modality, theory, exact truthmaking
-  other-ids: "tms-benthem:2017"
-  title: Truth maker semantics and modal information logic
-  type: manuscript
-  url: "https://eprints.illc.uva.nl/id/eprint/1590"
-- annote: "Mainly on impossible worlds but contains remarks on
-    truthmaker semantics in a couple of places: (i) the discussion on
-    p. 30 outlines an argument for the unsuitability of truthmaker
-    semantics for intentional purposes; (ii) the discussion on p. 77
-    presents an argument against the existence of non-obtaining states
-    of affairs based on truthmaker-considerations (with reference to
-    earlier work by Jago); (iii) §6.5 (p. 139--140) contains a
-    discussion of a truthmaker of the ternary relation in the semantics
-    for relevance logic, based on/referencing (Jago 2013)."
-  author:
-  - family: Berto
-    given: Francesco
-  - family: Jago
-    given: Mark
-  doi: 10.1093/oso/9780198812791.001.0001
-  id: "TMS:BERIWO"
-  issued: 2019
-  keyword: philosophy, theory, logic, relevance
-  other-ids: "tms-berto-jago:2019a"
-  publisher: Oxford University Press
-  publisher-place: Oxford, UK
-  title: Impossible worlds
-  type: book
-- annote: Seems to be a proceedings/talk version of (Burke 2019b).
-  author:
-  - family: Burke
-    given: Luke
-  container-title: Proceedings of the sixth workshop on natural language
-    and computer science
-  editor:
-  - family: Cooper
-    given: Robin
-  - family: Paiva
-    given: Valeria de
-  - family: Moss
-    given: Lawrence S.
-  id: "TMS:BURMFH"
-  issued: 2019
-  keyword: logic, linguistics
-  other-ids: "tms-burke:2019a"
-  page: 34-43
-  publisher-place: Gothenburg, Sweden
-  title: Monads for hyperintensionality? A situation semantics for
-    hyperintensional side effects
-  type: paper-conference
-  url: "https://www.aclweb.org/anthology/W19-1104.pdf"
-- annote: Modifies HYPE (Leitgeb 2019) using monads from category
-    theory. From a truthmaker semantics perspective, it's probably best
-    viewed as a variant of inexact truthmaker semantics.
-  author:
-  - family: Burke
-    given: Luke
-  container-title: Proceedings of Sinn Und Bedeutung
-  doi: 10.18148/sub/2019.v23i1.511
-  id: "TMS:BURPAM"
-  issue: 1
-  issued: 2019
-  keyword: logic, linguistics
-  other-ids: "tms-burke:2019b"
-  page: 201-218
-  title: "P-HYPE: A monadic situation semantics for hyperintensional
-    side effects"
-  title-short: P-HYPE
-  type: article-journal
-  volume: 23
 - author:
-  - family: Correia
-    given: Fabrice
-  container-title: The Review of Symbolic Logic
-  doi: 10.1017/S1755020315000258
-  id: "TMS:COROTL"
-  issue: 1
-  issued: 2016
-  keyword: logic, exact truthmaking
-  other-ids: "tms-correia:2016"
-  page: 103-122
-  title: On the logic of factual equivalence
-  type: article-journal
-  volume: 9
-- annote: "Provides an interesting argument for the primacy of inexact
-    truthmaking: the claim that we can define exact in terms of inexact
-    truthmaking and not the other way around (which is what we
-    standardly assume in the exact truthmaking literature). Best enjoyed
-    together with (Leitgeb 2020)."
-  author:
-  - family: Deigan
-    given: Michael
-  container-title: Linguistics and Philosophy
-  doi: 10.1007/s10988-019-09279-2
-  id: "TMS:DEIAPF"
-  issued: 2019
-  keyword: philosophy, theory, inexact truthmaking
-  other-ids: "tms-deigan:2019a"
-  page: 1-22
-  title: A plea for inexact truthmaking
-  type: article-journal
-- annote: Applies the theory from (Elgin 2018a) to argue for certain
-    claims in the context of the physicalism debate.
-  author:
-  - family: Elgin
-    given: Samuel
-  container-title: Erkenntnis
-  doi: 10.1007/s10670-019-00189-0
-  id: "TMS:ELGPAT"
-  issued: 2020
-  keyword: philosophy, philosophy of mind, exact truthmaking
-  other-ids: "tms-elgin:2020a"
-  page: 1-20
-  title: Physicalism and the identity of identity theories
-  type: article-journal
-- annote: Provides an analysis of philosophical analysis in an exact
-    truthmaker setting.
-  author:
-  - family: Elgin
-    given: Samuel
-  id: "TMS:ELGTSF"
-  issued: 2018
-  keyword: philosophy, metaphysics, exact truthmaking
-  other-ids: tms-elgin-2018a
-  title: The semantic foundations of philosophical analysis
-  type: manuscript
-  url: "https://philarchive.org/archive/ELGTSF"
-- annote: Presents a problem for the exact truthmaker semantics for
-    counterfactuals developed in (Fine 2012b)
-  author:
-  - family: Embry
-    given: Brian
-  container-title: The Journal of Philosophy
-  doi: 10.5840/jphil2014111522
-  id: "TMS:EMBCWP"
-  issue: 5
-  issued: 2014
-  keyword: philosophy, conditionals, exact truthmaking
-  other-ids: "tms-embry:2014a"
-  page: 276-287
-  title: Counterfactuals without possible worlds? A difficulty for
-    fine's exact semantics for counterfactuals
-  type: article-journal
-  volume: 111
-- annote: Contains a framework for the treatment of hyperintensionality
-    in normative context with applications of exact truthmaker
-    semantics. Is based on the author's PhD thesis.
-  author:
-  - family: Faroldi
-    given: Federico LG
-  doi: 10.1007/978-3-030-03487-0_4
-  id: "TMS:FARHAN"
-  issued: 2019
-  keyword: philosophy, normativity, logic, applications, exact
-    truthmaking
-  other-ids: "tms-faroldi:2019a"
-  publisher: Springer
-  title: Hyperintensionality and normativity
-  type: book
-- annote: Alternative treatment of negation in an exact truthmaker
-    setting.
-  author:
-  - family: Fernando
-    given: Tim
-  container-title: Proceedings of the 20th amsterdam colloquium
-  editor:
-  - family: Brochhage
-    given: Thomas
-  - family: Roelofse
-    given: Floris
-  - family: Theiler
-    given: Nadine
-  id: "TMS:FERNAE"
-  issued: 2015
-  keyword: philosophy, theory, exact truthmaking
-  other-ids: "tms-fernando:2015a"
-  page: 109-118
-  title: Negation and events as truthmakers
-  type: paper-conference
-  url: "https://semanticsarchive.net/Archive/mVkOTk2N/AC2015-proceedings.pdf"
-- annote: This review of Lewis's *Counterfactuals* makes an indirect
-    appeal to the intuitive idea behind the exact truthmaker clauses in
-    the context of the problem of disjunctive simplification in
-    counterfactuals (p. 454). But he doesn't go into much detail nor
-    does he make reference to the formal clauses. The paper doesn't
-    reference (Fraassen 1969).
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Mind
-  id: "TMS:FINCNO"
-  issue: 335
-  issued: 1975
-  keyword: philosophy, conditionals, background, exact truthmaking
-  other-ids: "tms-fine:1975"
-  page: 451-458
-  title: Critical notice
-  type: article-journal
-  url: "http://www.jstor.org/stable/2253565"
-  volume: 84
-- annote: Gives an argument for the hyperintensionality of
-    counterfactuals. Companion to (Fine 2012b).
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Synthese
-  doi: 10.1007/s11229-012-0094-y
-  id: "TMS:FINADF"
-  issue: 1
-  issued: 2012
-  keyword: philosophy, conditionals, background
-  other-ids: "tms-fine:2012a"
-  page: 29-57
-  title: A difficulty for the possible worlds analysis of
-    counterfactuals
-  type: article-journal
-  volume: 189
-- annote: Contains an argument for the hyperintensionality of
-    counterfactuals and an exact truthmaker semantics for (non-iterated)
-    counterfactuals. Great in combination with (Fine 2012a).
-  author:
-  - family: Fine
-    given: Kit
-  container-title: The Journal of Philosophy
-  doi: 10.1007/BF00248737
-  id: "TMS:FINCWP"
-  issue: 3
-  issued: 2012
-  keyword: philosophy, exact truthmakers
-  other-ids: "tms-fine:2012b"
-  page: 221-246
-  title: Counterfactuals without possible worlds
-  type: article-journal
-  volume: 109
-- annote: One of the first occurences of the exact truthmaker frameworks
-    in Fine's work is in the proposed semantics for statements of ground
-    in §1.10, p. 71--74.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Metaphysical grounding. Understanding the structure
-    of reality
-  editor:
-  - family: Correia
-    given: Fabrice
-  - family: Schnieder
-    given: Benjamin
-  id: "TMS:FINGTG"
-  issued: 2012
-  keyword: philosophy, metaphysics, applications, exact truthmaking
-  other-ids: "tms-fine:2012c"
-  page: 37-80
-  publisher: Cambridge University Press
-  publisher-place: Cambridge, UK
-  title: Guide to ground
-  type: chapter
-- annote: Contains a version of the semantics from (Fine 2012c) for a
-    logic of ground without logical connectives.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: The Review of Symbolic Logic
-  doi: 10.1017/S1755020311000086
-  id: "TMS:FINTPL"
-  issue: 1
-  issued: 2012
-  keyword: philosophy, metaphysics, logic, applications, exact
-    truthmaking
-  other-ids: "tms-fine:2012d"
-  page: 1-25
-  title: The pure logic of ground
-  type: article-journal
-  volume: 5
-- annote: Develops an exact truthmaker setting for intuitionistic logic
-    and provides a characterization for intuitionistic consequence in
-    terms of inexact consequence in this setting. Also contains a
-    philosophical discussion.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Journal of Philosophical Logic
-  doi: 10.1007/s10992-013-9281-7
-  id: "TMS:FINTSF"
-  issue: 2-3
-  issued: 2014
-  keyword: logic, intuitionistic logic, conditionals, exact truthmaking
-  other-ids: "tms-fine:2014a"
-  page: 549-577
-  title: Truth-maker semantics for intuitionistic logic
-  type: article-journal
-  volume: 43
-- annote: Contains arguments for the hyperintensionality of certain
-    concepts of permission and a sketch of a positive, exact truthmaker
-    based proposal for a semantics of permission statements.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Dialectica
-  doi: 10.1111/1746-8361.12068
-  id: "TMS:FINPAP"
-  issue: 3
-  issued: 2014
-  keyword: philosophy, normativity, exact truthmaking
-  other-ids: "tms-fine:2014b"
-  page: 317-336
-  title: Permission and possible worlds
-  type: article-journal
-  volume: 68
-- annote: Presents an exact truthmaker semantics for Angell's logic
-    **AC**. This is the first intuitive semantics for this system. The
-    paper introduces the convexivity condition on exact truthmakers.
-    Also the idea of using DNF's in completeness proofs seems to make
-    its first appearence here.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Journal of Philosophical Logic
-  doi: 10.1007/s10992-015-9371-9
-  id: "TMS:FINACO"
-  issue: 2
-  issued: 2016
-  keyword: logic, relevance, philosophy, content
-  other-ids: "tms-fine:2016"
-  page: 199-226
-  title: Angellic content
-  type: article-journal
-  volume: 45
-- annote: Together with (FIne 2017b), this outlines a (formal) theory of
-    propositions as sets of truthmakers (or constructs thereof).
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Journal of Philosophical Logic
-  doi: 10.1007/s10992-016-9413-y
-  id: "TMS:FINATO-1"
-  issue: 6
-  issued: 2017
-  keyword: logic, philosophy, theory, content
-  other-ids: "tms-fine:2017a"
-  page: 625-674
-  title: "A theory of truthmaker content i: Conjunction, disjunction and
-    negation"
-  title-short: A theory of truthmaker content i
-  type: article-journal
-  volume: 46
-- annote: Together with (Fine 2017a), this outlines a (formal) theory of
-    propositions as sets of truthmakers (or constructs thereof).
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Journal of Philosophical Logic
-  doi: 10.1007/s10992-016-9419-5
-  id: "TMS:FINATO-2"
-  issue: 6
-  issued: 2017
-  keyword: logic, philosophy, theory, applications, content
-  other-ids: "tms-fine:2017b"
-  page: 675-702
-  title: "A theory of truthmaker content II: Subject-matter, common
-    content, remainder and ground"
-  title-short: A theory of truthmaker content II
-  type: article-journal
-  volume: 46
-- annote: This is the authoritative introduction to the topic of (exact)
-    truthmaker semantics.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: A companion to the philosophy of language
-  edition: 2
-  editor:
-  - family: Hale
-    given: Bob
-  - family: Wright
-    given: Crispin
-  - family: Miller
-    given: Alexander
-  id: "TMS:FINTSE"
-  issued: 2017
-  keyword: philosophy, logic, linguistics, theory, key
-  other-ids: "tms-fine:2017c"
-  page: 556-577
-  publisher: Wiley-Blackwell
-  title: Truthmaker semantics
-  type: paper-conference
-- annote: General outline of (exact) truthmaker semantics, especially
-    focused on comparisons with possible-worlds semantics.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: "Being Necessary: Themes of Ontology and Modality
-    from the Work of Bob Hale"
-  doi: 10.1093/oso/9780198792161.003.0003
-  editor:
-  - family: Fred-Rivera
-    given: Ivetta
-  - family: Leech
-    given: Jessica
-  id: "TMS:FINTWO"
-  issued: 2018
-  keyword: philosophy, logic, theory
-  other-ids: "tms-fine:2018a"
-  page: 36-60
-  publisher: Oxford University Press
-  publisher-place: Oxford, UK
-  title: The world of truth-making
-  type: article-journal
-- annote: Together with (Fine 2018c) a fairly comprehensive treatment of
-    deontic/normative concepts in exact truthmaker semantics. The
-    treatment notably doesn't cover iterated deontics etc.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Review of Symbolic Logic
-  doi: 10.1017/S175502031700020X
-  id: "TMS:FINCAC-1"
-  issue: 4
-  issued: 2018
-  keyword: logic, normativity, applications
-  other-ids: "tms-fine:2018b"
-  page: 609-633
-  title: "Compliance and command i: Categorical imperatives"
-  title-short: Compliance and command i
-  type: article-journal
-  volume: 11
-- annote: Together with (Fine 2018c) a fairly comprehensive treatment of
-    deontic/normative concepts in exact truthmaker semantics. The
-    treatment notably doesn't cover iterated deontics etc.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Review of Symbolic Logic
-  doi: 10.1017/S1755020318000059
-  id: "TMS:FINCAC-2"
-  issue: 4
-  issued: 2018
-  keyword: logic, normativity, applications
-  other-ids: "tms-fine:2018c"
-  page: 634-664
-  title: "Compliance and command II: Imperatives and deontics"
-  title-short: Compliance and command II
-  type: article-journal
-  volume: 11
-- annote: Explication of the Is--Ought gap using exact truthmakers.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Synthese
-  doi: 10.1007/s11229-018-01996-8
-  id: "TMS:FINTAT"
-  issued: 2018
-  keyword: philosophy, normativity, exact truthmaking, applications
-  other-ids: "tms-fine:2018d"
-  page: 1-28
-  title: Truthmaking and the is--ought gap
-  type: article-journal
-- annote: Provides an exact truthmaker account of truth-likeness.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Erkenntnis
-  doi: 10.1007/s10670-019-00152-z
-  id: "TMS:FINVAT"
-  issued: 2019
-  keyword: philosophy
-  other-ids: "tms-fine:2019"
-  page: 1-38
-  title: Verisimilitude and truthmaking
-  type: article-journal
-- annote: Critical discussion of Yablo's inexact truthmaker account of
-    aboutness and subject-matter from (Yablo 2014) coming from an exact
-    truthmaker perspective.
-  author:
-  - family: Fine
-    given: Kit
-  container-title: Philosophical Studies
-  doi: 10.1007/s11098-018-1183-7
-  id: "TMS:FINYOS"
-  issue: 1
-  issued: 2020
-  keyword: philosophy, inexact truthmaking, theory, content
-  other-ids: "tms-fine:2020"
-  page: 129-171
-  title: Yablo on subject-matter
-  type: article-journal
-  volume: 177
-- annote: Treats exact truthmaker preservation across all models as a
-    (non-classical) consequence relation and investigates the resulting
-    logic using logical methods. Contains various interesting technical
-    results.
-  author:
-  - family: Fine
-    given: Kit
-  - family: Jago
-    given: Mark
-  container-title: The Review of Symbolic Logic
-  doi: 10.1017/S1755020318000151
-  id: "TMS:FINLFE"
-  issue: 3
-  issued: 2019
-  keyword: logic, exact truthmaking, theory
-  other-ids: "tms-fine-jago:2019"
-  page: 536-556
-  title: Logic for exact entailment
-  type: article-journal
-  volume: 12
-- annote: This is the first article in which the exact truthmaker
-    clauses appear (p. 484). However, van Fraassen uses them to provide
-    an inexact truthmaker semantics for what's known today as the logic
-    of First Degree Entailment (or, in his time, tautological
-    entailment).
-  author:
-  - dropping-particle: van
-    family: Fraassen
-    given: Bas C
-  container-title: The Journal of Philosophy
-  id: "TMS:FRAFAT"
-  issue: 15
-  issued: 1969
-  keyword: logic, philosophy, relevance, exact truthmaking, inexact
-    truthmaking, theory
-  other-ids: "tms-vanfraassen:1969"
-  page: 477-487
-  title: Facts and tautological entailments
-  type: article-journal
-  volume: 66
-- annote: In this article, the exact clauses occur in the context of a
-    semantic analysis of adverbs and a fine-grained theory of properties
-    (p. 123). In footnote 11, van Fraassen traces the semantic approach
-    to his earlier paper (Fraassen 1969).
-  author:
-  - dropping-particle: van
-    family: Fraassen
-    given: Bas C
-  id: "TMS:FRAEIA"
-  issued: 1973
-  keyword: logic, philosophy, exact truthmaking, inexact truthmaking,
-    linguistics, applications
-  other-ids: "tms-vanfraassen:1973"
-  title: Extension, intension, and comprehension
-  type: article-journal
-  url: "https://www.princeton.edu/\\~fraassen/abstract/Comprehension.pdf"
-- annote: In this paper, the exact truthmaker clauses make an occurrence
-    in van Fraassen's semantic models for relevantist probability theory
-    (p. 54). The clauses are not directly imposed on the models but
-    rather figure in a derived proposition.
-  author:
-  - dropping-particle: van
-    family: Fraassen
-    given: Bas C
-  container-title: Philosophical Studies
-  id: "TMS:FRAGWR"
-  issue: 1
-  issued: 1983
-  keyword: logic, philosophy, relevance, applications, probability
-  other-ids: "tms-vanfraassen:1983"
-  page: 47-61
-  title: "Gentlemen's wagers: Relevant logic and probability"
-  title-short: Gentlemen's wagers
-  type: article-journal
-  url: "http://www.jstor.org/stable/4319572"
-  volume: 43
-- annote: Compares various accounts of hyperintensional content. Ch. 5
-    contains a discussion of Fine's approach.
-  author:
-  - family: Gioulatou
-    given: Iliana
-  genre: Master's thesis
-  id: "TMS:GIOHYP"
-  issued: 2016
-  keyword: philosophy, exact truthmaking, theory, background
-  other-ids: tms-gioulatou-2016
-  publisher: University of Amsterdam, Institute for Logic, Language,;
-    Computation
-  title: Hyperintensionality
-  type: thesis
-  url: "http://www.illc.uva.nl/Research/Publications/Reports/MoL-2016-24.text.pdf"
-- annote: Provides an exact truthmaker semantics for indicative
-    conditionals starting from Fine's semantics for counterfactuals in
-    (Fine 2012b).
-  author:
-  - family: Güngör
-    given: Hüseyin
-  genre: Master's thesis
-  id: "TMS:GUNESF"
-  issued: 2017
-  keyword: logic, philosophy, conditionals, exact truthmaking
-  other-ids: "tms-gungor:2017"
-  publisher: Boĝaziçi University
-  title: Exact semantics for indicative conditionals
-  type: thesis
-  url: "https://philpapers.org/rec/GUNESF"
-- annote: Discusses or-to-if inferences in the semantics developed in
-    (Güngör 2017 and 2019c).
-  author:
-  - family: Güngör
-    given: Hüseyin
-  id: "TMS:GUNOTI"
-  keyword: logic, exact truthmaking, conditionals
-  other-ids: "tms-gungor:2019a"
-  title: Or-to-if inferences in contextualist truthmaker semantics
-  type: manuscript
-  url: "https://www.academia.edu/36639638/\\_Or_to_if_Inferences_in_Contextualist_Truthmaker_Semantics"
-- annote: Analyses the Two Stitches puzzle from Ciardelli, Champollion,
-    and Zhang using Fine's exact truthmaker semantics for
-    counterfactuals from (Fine 2012b)
-  author:
-  - family: Güngör
-    given: Hüseyin
-  id: "TMS:GUNTSA"
-  keyword: logic, conditionals, exact truthmaking
-  other-ids: "tms-gungor:2019b"
-  title: Two switches and truthmaker semantics
-  type: manuscript
-  url: "https://www.academia.edu/42813176/Two_Switches_and_Truthmaker_Semantics"
-- annote: Paper-length exposition of the semantics in (Güngör 2017).
-  author:
-  - family: Güngör
-    given: Hüseyin
-  id: "TMS:GUNTIC"
-  keyword: logic, conditionals, exact truthmaking
-  other-ids: "tms-gungor:2019c"
-  title: Truthmaking indicative conditionals
-  type: manuscript
-  url: "https://www.academia.edu/36278426/Truthmaking\\\\\\_Indicative\\\\\\_Conditionals"
-- annote: This paper is mentioned by (Fine 1975) as an explicit
-    precursor to exact truthmaker semantics.
-  author:
-  - family: Groenendijk
-    given: Jeroen
-  - family: Roelofsen
-    given: Floris
-  id: "TMS:GRORIS"
-  issued: 2010
-  keyword: logic, exact truthmaking, theory, background
-  other-ids: tms-groenendijk-2010
-  title: Radical inquisitive semantics
-  type: manuscript
-- annote: Surveys various possible exact truthmaker semantics for
-    epistemic logic.
-  author:
-  - family: Hawke
-    given: Peter
-  - family: özgün
-    given: Aybüke
-  container-title: "Outstanding contributions to logic: Kit fine"
-  editor:
-  - family: Faroldi
-    given: Federico LG
-  - family: Putte
-    given: Frederik Van De
-  id: "TMS:HAWTSF"
-  keyword: logic, epistemology, exact truthmaking
-  other-ids: "tms-hawke-ozgun:2020"
-  publisher: Springer
-  title: Truthmaker semantics for epistemic logic
-  type: chapter
-  url: "https://eprints.illc.uva.nl/1742/1/Truthmakers_EL_9.pdf"
-- annote: Discusses whether truthmaking implies relevance. Makes
-    explicit reference to (Fraassen 1969 and Restall 1996).
-  author:
-  - family: Heathcote
-    given: Adrian
-  container-title: Logique et Analyse
-  id: "TMS:HEATAT"
-  issue: 183/184
-  issued: 2003
-  keyword: philosophy, relevance, background, theory
-  other-ids: "tms-heathcote:2003"
-  page: 345-364
-  title: Truthmaking and the alleged need for relevance
-  type: article-journal
-  url: "https://www.jstor.org/stable/44084755"
-  volume: 46
-- annote: Surveys various "logics of synonymy," i.e. logical systems
-    based on a synonymy operator. Uses **AC** with the semantics from
-    (Fine 2016) as one of its benchmarks. Contains an interesting no-go
-    theorem that applies to **AC**.
-  author:
-  - family: Hornischer
-    given: Levin
-  container-title: Journal of Philosophical Logic
-  doi: 10.1007/s10992-019-09537-5
-  id: "TMS:HORLOS"
-  issue: 4
-  issued: 2020
-  keyword: logic, exact truthmaking, theory, content
-  other-ids: tms-hornischer-2020
-  page: 767-805
-  title: Logics of synonymy
-  type: article-journal
-  volume: 49
-- annote: Mentioned by Fine (Fine 2017, p. 575) as an \"early adopter\"
-    of the exact clauses. Concerns adverbial constructions, similar to
-    (Fraassen 1973).
-  author:
-  - family: Hwang
-    given: Chung Hee
-  - family: Schubert
-    given: Lenhart K.
-  container-title: Situation thoery and its applications. Volume 3
-  editor:
-  - family: Aczel
-    given: Peter
-  - family: Israel
-    given: Peter
-  - family: Katagiri
-    given: Yasuhiro
-  - family: Peters
-    given: Stanley
-  id: "TMS:HWAELA"
-  issued: 1993
-  keyword: linguistics, language
-  other-ids: "tms-hwang:1993"
-  page: 303-338
-  publisher: Center for the Study of Language; Information
-  publisher-place: Stanford, CA
-  title: "Episodic logic: A situational logic for natural language
-    processing"
-  title-short: Episodic logic
-  type: paper-conference
-- annote: Contains a brief discussion of truthmakers and their relation
-    to relevant logic (Restall 1996).
-  author:
-  - family: Jago
-    given: Mark
-  container-title: Analysis
-  doi: 10.1093/analys/ant043
-  id: "TMS:JAGRWI"
-  issued: 2013
-  keyword: logic, relevance logic, theory, background
-  other-ids: "tms-jago:2013"
-  page: 526-541
-  title: Recent work in relevant logic
-  type: article-journal
-  volume: 73
-- annote: Presents a theory of propositions based on (exact)
-    truthmakers.
-  author:
-  - family: Jago
-    given: Mark
-  container-title: Argumenta
-  doi: 10.23811/47.arg2017.jag
-  id: "TMS:JAGPAT"
-  issue: 2
-  issued: 2017
-  keyword: philosophy, theory, content, exact truthmaking
-  other-ids: "tms-jago:2017"
-  title: Propositions as truthmaker conditions
-  type: article-journal
-  volume: 4
-- annote: Presents an exact truthmaker semantics for the relevance logic
-    **R**. Note especially the alternative treatment of disjunctions.
-  author:
-  - family: Jago
-    given: Mark
-  container-title: Journal of Philosophical Logic
-  doi: 10.1007/s10992-019-09533-9
-  id: "TMS:JAGTSF"
-  issued: 2020
-  keyword: logic, relevance, exact truthmaking, inexact truthmaking
-  other-ids: "tms-jago:2020a"
-  page: 681-702
-  title: Truthmaker semantics for relevant logic
-  type: article-journal
-  volume: 49
-- annote: Further refines ideas of (Jago 2020) in the context of the
-    relation of disjunctive parts (in contrast to the concept of
-    conjunctive parts discussed, e.g., in (Fine 2016)).
-  author:
-  - family: Jago
-    given: Mark
-  container-title: "Outstanding contributions to logic: Kit fine"
-  editor:
-  - family: Faroldi
-    given: Federico LG
-  - family: Putte
-    given: Frederik Van De
-  id: "TMS:JAGDPA"
-  keyword: philosophy
-  other-ids: "tms-jago:2020b"
-  publisher: Springer
-  title: Disjunctive parts
-  type: chapter
-- annote: Extends the framework of exact truthmaker semantics with the
-    resources of two-dimensional semantics.
-  author:
-  - family: Khudairi
-    given: Hasen
-  id: "TMS:KHUTDT"
-  keyword: philosophy, applications, modality
-  other-ids: "tms-khudairi:2020"
-  title: Two-dimensional truthmaker semantics
-  type: manuscript
-  url: "https://philarchive.org/archive/KHUTTS-2"
-- annote: Evaluates the exact truthmaker semantics for intuitionistic
-    logic from (Fine 2014a) by comparing it to Martin-Löf type theory.
-  author:
-  - family: Klev
-    given: Ansten
-  container-title: The logica yearbook 2016
-  editor:
-  - family: Arazim
-    given: Pavel
-  - family: Lávička
-    given: Tomáš
-  id: "TMS:KLETSF"
-  issued: 2017
-  keyword: logic, intuitionism, exact truthmaking
-  other-ids: "tms-klev:2017"
-  page: 87-108
-  publisher: College Publications
-  title: "Truthmaker semantics: Fine versus martin-löf"
-  title-short: Truthmaker semantics
-  type: paper-conference
-- annote: Contains a semantics for deontic operators different from
-    (Fine 2018b and 2018c).
-  author:
   - family: Anglberger
     given: Albert J. J.
   - family: Faroldi
@@ -866,17 +18,805 @@ references:
     given: Allard
   - family: Willer
     given: Malte
-  id: "TMS:KORAET"
+  id: "TMS:ANGAET"
   issued: 2016
-  keyword: logic, normativity, exact truthmaking
-  other-ids: "tms-korbmacher:2016"
+  keyword: deontic logic, exact truthmakers
   page: 16-31
   publisher: College Publications
   title: An exact truthmaker semantics for permission and obligation
   type: paper-conference
-- annote: Proposes a criterion for probabilistic (ir)relevance in a
-    broadly Bayesian framework extended with exact truthmaker resources.
-  author:
+- author:
+  - family: Anglberger
+    given: Albert
+  - family: Korbmacher
+    given: Johannes
+  container-title: Studia Logica
+  doi: 10.1007/s11225-019-09862-5
+  id: "TMS:ANGTAN"
+  issue: 1
+  issued: 2020
+  keyword: deontic logic, exact truthmakers
+  page: 49-83
+  title: Truthmakers and normative conflicts
+  type: article-journal
+  volume: 108
+- author:
+  - family: Behrens
+    given: Singa
+  container-title: Synthese
+  doi: 10.1007/s11229-021-03371-6
+  id: "TMS:BEHNNF"
+  issued: 2021
+  keyword: practical philosophy, exact truthmakers
+  page: 13163-13186
+  title: "No normative free lunch: Relevance and the autonomy of the
+    normative domain"
+  title-short: No normative free lunch
+  type: article-journal
+  volume: 199
+- author:
+  - dropping-particle: van
+    family: Benthem
+    given: Johan
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-018-9485-y
+  id: "TMS:BENIAE"
+  issue: Number
+  issued: 2019
+  keyword: modal logic, exact truthmakers
+  page: 571-601
+  title: Implicit and explicit stances in logic
+  type: article-journal
+  volume: 48
+- author:
+  - family: Berto
+    given: Francesco
+  - family: Jago
+    given: Mark
+  doi: 10.1093/oso/9780198812791.001.0001
+  id: "TMS:BERIWO"
+  issued: 2019
+  keyword: relevance logic, exact truthmaking, impossible worlds
+  publisher: Oxford University Press
+  publisher-place: Oxford, UK
+  title: Impossible worlds
+  type: book
+- author:
+  - family: Burke
+    given: Luke
+  container-title: Proceedings of the sixth workshop on natural language
+    and computer science
+  editor:
+  - family: Cooper
+    given: Robin
+  - family: Paiva
+    given: Valeria de
+  - family: Moss
+    given: Lawrence S.
+  id: "TMS:BURMFH"
+  issued: 2019
+  keyword: linguistics, HYPE, exact truthmakers
+  page: 34-43
+  publisher-place: Gothenburg, Sweden
+  title: Monads for hyperintensionality? A situation semantics for
+    hyperintensional side effects
+  type: paper-conference
+  url: "https://www.aclweb.org/anthology/W19-1104.pdf"
+- author:
+  - family: Burke
+    given: Luke
+  container-title: Proceedings of Sinn Und Bedeutung
+  doi: 10.18148/sub/2019.v23i1.511
+  id: "TMS:BURPAM"
+  issue: 1
+  issued: 2019
+  keyword: linguistics, HYPE, exact truthmakers
+  page: 201-218
+  title: "P-HYPE: A monadic situation semantics for hyperintensional
+    side effects"
+  title-short: P-HYPE
+  type: article-journal
+  volume: 23
+- author:
+  - family: Correia
+    given: Fabrice
+  container-title: Philosophical Issues
+  doi: 10.1111/phis.12091
+  id: "TMS:CORRDE"
+  issue: 1
+  issued: 2017
+  keyword: metaphysics, exact truthmakers
+  page: 52-74
+  title: Real definitions
+  type: article-journal
+  volume: 27
+- author:
+  - family: Correia
+    given: Fabrice
+  container-title: The Review of Symbolic Logic
+  doi: 10.1017/S1755020315000258
+  id: "TMS:COROTL"
+  issue: 1
+  issued: 2016
+  keyword: logic of equivalence, exact truthmakers
+  page: 103-122
+  title: On the logic of factual equivalence
+  type: article-journal
+  volume: 9
+- author:
+  - family: Deigan
+    given: Michael
+  container-title: Linguistics and Philosophy
+  doi: 10.1007/s10988-019-09279-2
+  id: "TMS:DEIAPF"
+  issued: 2019
+  keyword: exact truthmaking, exact truthmakers
+  page: 1-22
+  title: A plea for inexact truthmaking
+  type: article-journal
+- author:
+  - family: Elgin
+    given: Samuel
+  container-title: Erkenntnis
+  doi: 10.1007/s10670-019-00189-0
+  id: "TMS:ELGPAT"
+  issued: 2020
+  keyword: philosophy of mind, exact truthmakers
+  page: 1-20
+  title: Physicalism and the identity of identity theories
+  type: article-journal
+- author:
+  - family: Elgin
+    given: Samuel
+  container-title: The Review of Symbolic Logic
+  doi: 10.1017/S1755020321000046
+  id: "TMS:ELGTSF"
+  issued: 2021
+  keyword: philosophy of language, metaphysics, exact truthmakers
+  title: The semantic foundations of philosophical analysis
+  type: article-journal
+- author:
+  - family: Elgin
+    given: Samuel
+  container-title: Synthese
+  doi: 10.1007/s11229-021-03027-5
+  id: "TMS:ELGKIC"
+  issued: 2021
+  keyword: epistemology, semantic content, exact truthmakers
+  page: 5339-5353
+  title: Knowledge is closed under analytic content
+  type: article-journal
+  volume: 199
+- author:
+  - family: Elliot
+    given: Patric D.
+  container-title: Theoretical Linguistics
+  doi: 10.1515/tl-2020-0013
+  id: "TMS:ELIAPF"
+  issue: 3--4
+  issued: 2020
+  keyword: linguistics, exact truthmakers
+  page: 241-251
+  title: "A plea for equality: Remarks on moltmann's semantics for
+    clausal embedding"
+  title-short: A plea for equality
+  type: article-journal
+  volume: 46
+- author:
+  - family: Embry
+    given: Brian
+  container-title: The Journal of Philosophy
+  doi: 10.5840/jphil2014111522
+  id: "TMS:EMBCWP"
+  issue: 5
+  issued: 2014
+  keyword: logic of conditionals, exact truthmakers
+  page: 276-287
+  title: Counterfactuals without possible worlds? A difficulty for
+    fine's exact semantics for counterfactuals
+  type: article-journal
+  volume: 111
+- author:
+  - family: Faroldi
+    given: Federico LG
+  container-title: Hyperintensionality and normativity
+  doi: 10.1007/978-3-030-03487-0_5
+  id: "TMS:FARHAN"
+  issued: 2019
+  keyword: deontic logic, exact truthmakers
+  page: 105-131
+  publisher: Springer
+  title: Truthmaker semantics for deontic modals
+  type: chapter
+- author:
+  - family: Faroldi
+    given: Federico LG
+  container-title: Notizie di Politeia
+  id: "TMS:FARRAI"
+  issue: 138
+  issued: 2020
+  page: 78-89
+  title: Responsibility and its truthmakers
+  type: article-journal
+  volume: 36
+- author:
+  - family: Faroldi
+    given: Federico LG
+  container-title: Bulletin of the Section of Logic
+  doi: 10.18778/0138-0680.2021.07
+  id: "TMS:FARTAL"
+  issue: 2
+  issued: 2021
+  keyword: exact truthmaking
+  page: 131-149
+  title: Towards a logic of value and disagreement via imprecise
+    measures
+  type: article-journal
+  volume: 50
+- author:
+  - family: Ferguson
+    given: Thomas Macaulay
+  container-title: Meaning and proscription in formal logic
+  id: "TMS:FERMCO"
+  issued: 2017
+  keyword: metaphysics, exact truthmakers
+  page: 41-72
+  publisher: Springer
+  title: Metaphysical considerations on state space semantics
+  type: chapter
+- author:
+  - family: Fernando
+    given: Tim
+  container-title: Proceedings of the 20th amsterdam colloquium
+  editor:
+  - family: Brochhage
+    given: Thomas
+  - family: Roelofse
+    given: Floris
+  - family: Theiler
+    given: Nadine
+  id: "TMS:FERNAE"
+  issued: 2015
+  keyword: propositional logic, exact truthmakers
+  page: 109-118
+  title: Negation and events as truthmakers
+  type: paper-conference
+  url: "https://semanticsarchive.net/Archive/mVkOTk2N/AC2015-proceedings.pdf"
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Mind
+  id: "TMS:FINCNO"
+  issue: 335
+  issued: 1975
+  keyword: precursor, conditional logic, exact truthmakers
+  page: 451-458
+  title: Critical notice
+  type: article-journal
+  url: "http://www.jstor.org/stable/2253565"
+  volume: 84
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Synthese
+  doi: 10.1007/s11229-012-0094-y
+  id: "TMS:FINADF"
+  issue: 1
+  issued: 2012
+  keyword: conditional logics, exact truthmakers
+  page: 29-57
+  title: A difficulty for the possible worlds analysis of
+    counterfactuals
+  type: article-journal
+  volume: 189
+- author:
+  - family: Fine
+    given: Kit
+  container-title: The Journal of Philosophy
+  doi: 10.1007/BF00248737
+  id: "TMS:FINCWP"
+  issue: 3
+  issued: 2012
+  keyword: conditional logics, exact truthmakers
+  page: 221-246
+  title: Counterfactuals without possible worlds
+  type: article-journal
+  volume: 109
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Metaphysical grounding. Understanding the structure
+    of reality
+  editor:
+  - family: Correia
+    given: Fabrice
+  - family: Schnieder
+    given: Benjamin
+  id: "TMS:FINGTG"
+  issued: 2012
+  keyword: metaphysics, metaphysical grounding, exact truthmakers
+  page: 37-80
+  publisher: Cambridge University Press
+  publisher-place: Cambridge, UK
+  title: Guide to ground
+  type: chapter
+- author:
+  - family: Fine
+    given: Kit
+  container-title: The Review of Symbolic Logic
+  doi: 10.1017/S1755020311000086
+  id: "TMS:FINTPL"
+  issue: 1
+  issued: 2012
+  keyword: logic of ground, exact truthmakers
+  page: 1-25
+  title: The pure logic of ground
+  type: article-journal
+  volume: 5
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-013-9281-7
+  id: "TMS:FINTSF"
+  issue: 2-3
+  issued: 2014
+  keyword: intuitionistic logic, exact truthmakers
+  page: 549-577
+  title: Truth-maker semantics for intuitionistic logic
+  type: article-journal
+  volume: 43
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Dialectica
+  doi: 10.1111/1746-8361.12068
+  id: "TMS:FINPAP"
+  issue: 3
+  issued: 2014
+  keyword: deontic logic, exact truthmakers
+  page: 317-336
+  title: Permission and possible worlds
+  type: article-journal
+  volume: 68
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-015-9371-9
+  id: "TMS:FINACO"
+  issue: 2
+  issued: 2016
+  keyword: logic of equivalence, subject matter, exact truthmakers
+  page: 199-226
+  title: Angellic content
+  type: article-journal
+  volume: 45
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-016-9413-y
+  id: "TMS:FINATO-1"
+  issue: 6
+  issued: 2017
+  keyword: propositional logic, exact truthmakers
+  page: 625-674
+  title: "A theory of truthmaker content I: Conjunction, disjunction and
+    negation"
+  title-short: A theory of truthmaker content I
+  type: article-journal
+  volume: 46
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-016-9419-5
+  id: "TMS:FINATO-2"
+  issue: 6
+  issued: 2017
+  keyword: logic of ground, subject matter, exact truthmakers
+  page: 675-702
+  title: "A theory of truthmaker content II: Subject-matter, common
+    content, remainder and ground"
+  title-short: A theory of truthmaker content II
+  type: article-journal
+  volume: 46
+- author:
+  - family: Fine
+    given: Kit
+  container-title: A companion to the philosophy of language
+  edition: 2
+  editor:
+  - family: Hale
+    given: Bob
+  - family: Wright
+    given: Crispin
+  - family: Miller
+    given: Alexander
+  id: "TMS:FINTSE"
+  issued: 2017
+  keyword: introduction, exact truthmakers
+  page: 556-577
+  publisher: Wiley-Blackwell
+  title: Truthmaker semantics
+  type: paper-conference
+- author:
+  - family: Fine
+    given: Kit
+  container-title: "Being Necessary: Themes of Ontology and Modality
+    from the Work of Bob Hale"
+  doi: 10.1093/oso/9780198792161.003.0003
+  editor:
+  - family: Fred-Rivera
+    given: Ivetta
+  - family: Leech
+    given: Jessica
+  id: "TMS:FINTWO"
+  issued: 2018
+  keyword: introduction, exact truthmakers
+  page: 36-60
+  publisher: Oxford University Press
+  publisher-place: Oxford, UK
+  title: The world of truth-making
+  type: article-journal
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Review of Symbolic Logic
+  doi: 10.1017/S175502031700020X
+  id: "TMS:FINCAC-1"
+  issue: 4
+  issued: 2018
+  keyword: imperative logic, exact truthmakers
+  page: 609-633
+  title: "Compliance and command I: Categorical imperatives"
+  title-short: Compliance and command I
+  type: article-journal
+  volume: 11
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Review of Symbolic Logic
+  doi: 10.1017/S1755020318000059
+  id: "TMS:FINCAC-2"
+  issue: 4
+  issued: 2018
+  keyword: deontic logic, exact truthmakers
+  page: 634-664
+  title: "Compliance and command II: Imperatives and deontics"
+  title-short: Compliance and command II
+  type: article-journal
+  volume: 11
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Synthese
+  doi: 10.1007/s11229-018-01996-8
+  id: "TMS:FINTAT"
+  issued: 2018
+  keyword: practical philosophy, exact truthmakers
+  page: 1-28
+  title: Truthmaking and the is-ought gap
+  type: article-journal
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Erkenntnis
+  doi: 10.1007/s10670-019-00152-z
+  id: "TMS:FINVAT"
+  issued: 2019
+  keyword: philosophy of language, exact truthmakers
+  page: 1-38
+  title: Verisimilitude and truthmaking
+  type: article-journal
+- author:
+  - family: Fine
+    given: Kit
+  container-title: Philosophical Studies
+  doi: 10.1007/s11098-018-1183-7
+  id: "TMS:FINYOS"
+  issue: 1
+  issued: 2020
+  keyword: subect matter, inexact truthmaking, exact truthmakers
+  page: 129-171
+  title: Yablo on subject-matter
+  type: article-journal
+  volume: 177
+- author:
+  - family: Fine
+    given: Kit
+  - family: Jago
+    given: Mark
+  container-title: The Review of Symbolic Logic
+  doi: 10.1017/S1755020318000151
+  id: "TMS:FINLFE"
+  issue: 3
+  issued: 2019
+  keyword: logic, exact truthmakers
+  page: 536-556
+  title: Logic for exact entailment
+  type: article-journal
+  volume: 12
+- author:
+  - dropping-particle: van
+    family: Fraassen
+    given: Bas C
+  container-title: The Journal of Philosophy
+  id: "TMS:FRAFAT"
+  issue: 15
+  issued: 1969
+  keyword: precursor, relevant logic, inexact truthmakers, exact
+    truthmakers
+  page: 477-487
+  title: Facts and tautological entailments
+  type: article-journal
+  volume: 66
+- author:
+  - dropping-particle: van
+    family: Fraassen
+    given: Bas C
+  id: "TMS:FRAEIA"
+  issued: 1973
+  keyword: precursor, linguistics, inexact truthmakers, exact
+    truthmakers
+  title: Extension, intension, and comprehension
+  type: article-journal
+  url: "https://www.princeton.edu/\\~fraassen/abstract/Comprehension.pdf"
+- author:
+  - dropping-particle: van
+    family: Fraassen
+    given: Bas C
+  container-title: Philosophical Studies
+  id: "TMS:FRAGWR"
+  issue: 1
+  issued: 1983
+  keyword: relevant logic, probability theory, exact truthmakers
+  page: 47-61
+  title: "Gentlemen's wagers: Relevant logic and probability"
+  title-short: Gentlemen's wagers
+  type: article-journal
+  url: "http://www.jstor.org/stable/4319572"
+  volume: 43
+- author:
+  - family: Gioulatou
+    given: Iliana
+  genre: Master's thesis
+  id: "TMS:GIOHYP"
+  issued: 2016
+  keyword: philosophy of language, logic, exact truthmakers
+  publisher: University of Amsterdam, Institute for Logic, Language,;
+    Computation
+  title: Hyperintensionality
+  type: thesis
+  url: "http://www.illc.uva.nl/Research/Publications/Reports/MoL-2016-24.text.pdf"
+- author:
+  - family: Güngör
+    given: Hüseyin
+  genre: Master's thesis
+  id: "TMS:GUNESF"
+  issued: 2017
+  keyword: conditional logic, exact truthmakers
+  publisher: Boĝaziçi University
+  title: Exact semantics for indicative conditionals
+  type: thesis
+  url: "https://philpapers.org/rec/GUNESF"
+- author:
+  - family: Güngör
+    given: Hüseyin
+  container-title: Linguistics and Philosophy
+  id: "TMS:GUNCHA"
+  issued: forthcoming
+  keyword: conditional logic, exact truthmakers
+  page: 1-41
+  status: forthcoming
+  title: Counterfactuals, hyperintensionality and hurford phenomena
+  type: article-journal
+- author:
+  - family: Hale
+    given: Bob
+  container-title: Essence and existence. Selected essays
+  id: "TMS:HALWMT"
+  issued: 2020
+  page: 104-123
+  publisher: Oxford University Press
+  title: What makes true universal statements true?
+  type: chapter
+- author:
+  - family: Hale
+    given: Bob
+  container-title: Essence and existence. Selected essays
+  id: "TMS:HALETM"
+  issued: 2020
+  page: 124-140
+  publisher: Oxford University Press
+  title: Exact truthmakers, modality, and essence
+  type: chapter
+- author:
+  - family: Hawke
+    given: Peter
+  - family: özgün
+    given: Aybüke
+  container-title: "Outstanding contributions to logic: Kit Fine"
+  editor:
+  - family: Faroldi
+    given: Federico LG
+  - family: Putte
+    given: Frederik Van De
+  id: "TMS:HAWTSF"
+  keyword: epistemic logic, exact truthmakers
+  publisher: Springer
+  title: Truthmaker semantics for epistemic logic
+  type: chapter
+- author:
+  - family: Heathcote
+    given: Adrian
+  container-title: Logique et Analyse
+  id: "TMS:HEATAT"
+  issue: 183/184
+  issued: 2003
+  keyword: logic, exact truthmakers
+  page: 345-364
+  title: Truthmaking and the alleged need for relevance
+  type: article-journal
+  url: "https://www.jstor.org/stable/44084755"
+  volume: 46
+- author:
+  - family: Hornischer
+    given: Levin
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-019-09537-5
+  id: "TMS:HORLOS"
+  issue: 4
+  issued: 2020
+  keyword: subject matter, inexact truthmaking, exact truthmakers
+  page: 767-805
+  title: Logics of synonymy
+  type: article-journal
+  volume: 49
+- author:
+  - family: Hwang
+    given: Chung Hee
+  - family: Schubert
+    given: Lenhart K.
+  container-title: Situation thoery and its applications. Volume 3
+  editor:
+  - family: Aczel
+    given: Peter
+  - family: Israel
+    given: Peter
+  - family: Katagiri
+    given: Yasuhiro
+  - family: Peters
+    given: Stanley
+  id: "TMS:HWAELA"
+  issued: 1993
+  keyword: precursor,linguistics, exact truthmakers
+  page: 303-338
+  publisher: Center for the Study of Language; Information
+  publisher-place: Stanford, CA
+  title: "Episodic logic: A situational logic for natural language
+    processing"
+  title-short: Episodic logic
+  type: chapter
+- author:
+  - family: Jago
+    given: Mark
+  container-title: Analysis
+  doi: 10.1093/analys/ant043
+  id: "TMS:JAGRWI"
+  issued: 2013
+  keyword: relevant logic, exact truthmakers
+  page: 526-541
+  title: Recent work in relevant logic
+  type: article-journal
+  volume: 73
+- author:
+  - family: Jago
+    given: Mark
+  container-title: Argumenta
+  doi: 10.23811/47.arg2017.jag
+  id: "TMS:JAGPAT"
+  issue: 2
+  issued: 2017
+  keyword: philosophy of language, exact truthmakers
+  title: Propositions as truthmaker conditions
+  type: article-journal
+  volume: 4
+- author:
+  - family: Jago
+    given: Mark
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-019-09533-9
+  id: "TMS:JAGTSF"
+  issued: 2020
+  keyword: relevant logic, exact truthmaking, exact truthmakers
+  page: 681-702
+  title: Truthmaker semantics for relevant logic
+  type: article-journal
+  volume: 49
+- author:
+  - family: Jago
+    given: Mark
+  container-title: "Outstanding contributions to logic: Kit Fine"
+  editor:
+  - family: Faroldi
+    given: Federico LG
+  - family: Putte
+    given: Frederik Van De
+  id: "TMS:JAGDPA"
+  keyword: metaphysics, philosophy of language, exact truthmakers
+  publisher: Springer
+  title: Disjunctive parts
+  type: chapter
+- author:
+  - family: Kappes
+    given: Yannic
+  container-title: Philosophical Studies
+  doi: 10.1007/s11098-020-01474-3
+  id: "TMS:KAPTEO"
+  issued: 2021
+  page: 1267-1284
+  title: The explanation of logical theorems and reductive truthmakers
+  type: article-journal
+  volume: 178
+- author:
+  - family: Kaufman
+    given: Magdalena
+  container-title: Theoretical Linguistics
+  doi: 10.1515/tl-2020-0014
+  id: "TMS:KAUOTP"
+  issue: 3-4
+  issued: 2020
+  page: 253-266
+  title: On the performance of modal objects
+  type: article-journal
+  volume: 46
+- author:
+  - family: Klev
+    given: Ansten
+  container-title: The logica yearbook 2016
+  editor:
+  - family: Arazim
+    given: Pavel
+  - family: Lávička
+    given: Tomáš
+  id: "TMS:KLETSF"
+  issued: 2017
+  keyword: intuitionistic logic, exact truthmakers
+  page: 87-108
+  publisher: College Publications
+  title: "Truthmaker semantics: Fine versus martin-löf"
+  title-short: Truthmaker semantics
+  type: paper-conference
+- author:
+  - family: Korbmacher
+    given: Johannes
+  container-title: Review of Symbolic Logic
+  doi: 10.1017/S175502032200020X
+  id: "TMS:KORPSF"
+  issued: forthcoming
+  keyword: logic, exact truthmakers
+  page: 1-37
+  status: forthcoming
+  title: Proof systems for exact entailment
+  type: article-journal
+- author:
+  - family: Kovacs
+    given: David Mark
+  container-title: Canadian Journal of Philosophy
+  doi: "doi:10.1017/can.2021.13"
+  id: "TMS:KOVTIN"
+  issue: 4
+  issued: 2021
+  keyword: philosophy of science, metaphysics, inexact, truthmakers
+    exact, truthmakers
+  page: 270-281
+  title: There is no distictively semantic circularity objection to
+    humean laws
+  type: article-journal
+  volume: 51
+- author:
   - family: Krämer
     given: Stephan
   container-title: Synthese
@@ -884,9 +824,7 @@ references:
   id: "TMS:KRAAHC"
   issue: 8
   issued: 2017
-  keyword: philosophy, applications, probability, relevance, exact
-    truthmaking
-  other-ids: "tms-kraemer:2017"
+  keyword: probability theory, exact truthmakers
   page: 2917-2930
   title: A hyperintensional criterion of irrelevance
   type: article-journal
@@ -894,57 +832,81 @@ references:
 - author:
   - family: Krämer
     given: Stephan
+  - family: Roski
+    given: Stefan
+  container-title: Philosophical Studies
+  doi: 10.1007/s11098-016-0749-5
+  id: "TMS:KRADMG"
+  issued: 2017
+  keyword: metaphysical grounding, metaphysics, exact truthmakers
+  page: 1191-1215
+  title: Difference-making grounds
+  type: article-journal
+  volume: 174
+- author:
+  - family: Krämer
+    given: Stephan
+  container-title: Synthese
+  doi: 10.1007/s11229-016-1242-6
+  id: "TMS:KRATAT"
+  issued: 2018
+  keyword: content, philosophy of language, exact truthmakers
+  page: 785-814
+  title: Towards a theory of ground-theoretic content
+  type: article-journal
+  volume: 195
+- author:
+  - family: Krämer
+    given: Stephan
   container-title: Philosophy and Phenomenological Research
   doi: 10.1111/phpr.12692
   id: "TMS:KRASTW"
   issued: 2021
-  keyword: philosophy, applications, exact truthmaking
-  other-ids: "tms-kraemer:2020a"
+  keyword: metaphysics, exact truthmakers
   page: 40-56
   title: Singular troubles with singleton socrates
   type: article-journal
   volume: 103
-- annote: Formulates an account of what it means to give the "whole
-    truth" and formally models it in exact truthmaker semantics.
-  author:
+- author:
+  - family: Kraämer
+    given: Stephan
+  container-title: Synthese
+  doi: 10.1007/s11229-019-02154-4
+  id: "TMS:KRAGTE"
+  issued: 2021
+  page: 1643001683
+  title: Ground-theoretic equivalence
+  type: article-journal
+  volume: 198
+- author:
   - family: Krämer
     given: Stephan
-  container-title: "Outstanding contributions to logic: Kit fine"
+  container-title: "Outstanding contributions to logic: Kit Fine"
   editor:
   - family: Faroldi
     given: Federico LG
   - family: Putte
     given: Frederik Van De
   id: "TMS:KRATWT"
-  keyword: philosophy, language, applications, exact truthmaking
-  other-ids: "tms-kraemer:2020b"
+  keyword: philosophy of language, exact truthmakers
   publisher: Springer
   title: The whole truth
   type: paper-conference
-  url: "https://relevanceproject.files.wordpress.com/2019/08/wt.pdf"
-- annote: New system hyperintensional semantics/logic, which from the
-    perspective of truthmaker semantics can best be viewed as a form of
-    inexact truthmaker semantics. Contains a very interesting
-    philosphical application.
-  author:
+- author:
   - family: Leitgeb
     given: Hannes
   container-title: Journal of Philosophical Logic
   id: "TMS:LEIHAS"
   issue: 2
   issued: 2019
-  keyword: logic, inexact truthmaking, theory
-  other-ids: "tms-leitgeb:2019"
+  keyword: theories of truth, exact truthmakers
   page: 305-405
   title: "HYPE: A system of hyperintensional logic (with an application
     to semantic paradoxes)"
   title-short: HYPE
   type: article-journal
   volume: 48
-- annote: Explains the philosophical idea behind a proposal for defining
-    inexact in terms of exact truthmaking (contra "tradition"). Good
-    pairing with (Deigan 2019a).
-  author:
+- author:
   - family: Leitgeb
     given: Hannes
   container-title: Logic in high definition. Trends in logical semantics
@@ -955,92 +917,140 @@ references:
   - family: Milanowski
     given: Jacek
   id: "TMS:LEIETA"
-  issued: 2020
-  keyword: philosophy, inexact truthmaking, exact truthmaking, theory
-  other-ids: "tms-leitgeb:2020"
+  issued: 2021
+  keyword: inexact truthmaking, exact truthmakers
   page: 67-75
   publisher: Springer
   title: Exact truthmaking as inexact truthmaking by minimal totality
     facts
   type: paper-conference
-- annote: Applications of exact truthmaker semantics in linguistics.
-  author:
-  - family: Moltman
+- author:
+  - family: Leuenberger
+    given: Stephan
+  container-title: Philosophical Studies
+  doi: 10.1007/s11098-019-01332-x
+  id: "TMS:LEUTFU"
+  issued: 2020
+  keyword: metaphysics, metaphysical grounding, exact truthmakers
+  page: 2647-2669
+  title: "The fundamental: Ungrounded or all-grounding?"
+  title-short: The fundamental
+  type: article-journal
+  volume: 177
+- author:
+  - family: Liefke
+    given: Kristina
+  container-title: Erkenntnis
+  doi: 10.1007/s10670-022-00534-w
+  id: "TMS:LIFEAA"
+  issued: forthcoming
+  keyword: philosophy of language, exact truthmakers
+  status: forthcoming
+  title: Experiential attitutes are propositional
+  type: article-journal
+- author:
+  - family: Moltmann
     given: Friederike
   container-title: Act-based conceptions of propositional content.
     Contemporary and historical perspectives
   editor:
-  - family: Moltman
+  - family: Moltmann
     given: Friederike
   - family: Textor
     given: Mark
   id: "TMS:MOLCPA"
   issued: 2017
-  keyword: linguistics
-  other-ids: tms-moltman-2017
+  keyword: linguistics, exact truthmakers
   page: 254-289
   publisher: Oxford University Press
   publisher-place: New York, NY
   title: Cognitive products and the semantics of attitude verbs and
     deontic modals
   type: paper-conference
-- annote: Applications of exact truthmaker semantics in linguistics.
-  author:
-  - family: Moltman
+- author:
+  - family: Moltmann
     given: Friederike
   container-title: Philosophical Issues
   doi: 10.1111/phis.12124
   id: "TMS:MOLAOB"
   issue: 1
   issued: 2018
-  keyword: linguistics
-  other-ids: "tms-moltman:2018"
+  keyword: linguistics, exact truthmakers
   page: 255-288
   title: An object-based truthmaker semantics for modals
   type: article-journal
   volume: 28
-- annote: Applications of exact truthmaker semantics in linguistics.
-  author:
+- author:
   - family: Moltman
     given: Friederike
-  container-title: "Metaphysics, meaning, and modality: Themes from kit
-    fine"
+  container-title: Linguistics and Philosophy
+  doi: 10.1007/s10988-019-09282-7
+  id: "TMS:MOLSAA"
+  issued: 2019
+  keyword: linguistics, exact truthmakers
+  page: 153-193
+  title: Situations, alternatives, and the semantics of 'cases'
+  type: article-journal
+  volume: 44
+- author:
+  - family: Moltmann
+    given: Friederike
+  container-title: "Metaphysics, meaning, and modality: Themes from Kit
+    Fine"
   doi: "https:doi.org/10.1093/oso/9780199652624.003.0020"
   editor:
-  - family: Dumitru
-    given: Mircea
+  - family: dumitru
+    given: mircea
   id: "TMS:MOLVOA"
   issued: 2020
-  keyword: linguistics
-  other-ids: tms-moltman-2020a
+  keyword: linguistics, exact truthmakers
   page: 368-394
-  publisher: Oxford University Press
-  publisher-place: Oxford, UK
+  publisher: oxford university press
+  publisher-place: oxford, uk
   title: Variable objects and truthmaking
   type: paper-conference
-- annote: Applications of exact truthmaker semantics in linguistics.
-  author:
-  - family: Moltman
+- author:
+  - family: Moltmann
     given: Friederike
   container-title: Theoretical Linguistics
   doi: 10.1515/tl-2020-0010
   id: "TMS:MOLTSF"
   issue: 3-4
   issued: 2020
-  keyword: linguistics
-  other-ids: tms-moltman-2020b
+  keyword: linguistics, exact truthmakers
   page: 159-200
   title: "Truthmaker semantics for natural language: Attitude verbs,
     modals, and intensional transitive verbs"
   title-short: Truthmaker semantics for natural language
   type: article-journal
   volume: 46
-- annote: Compares HYPE to Heyting-Ockam logic. Contains a
-    characterization of HYPE as identical to a modal system introduced
-    by Moisil. From the perspective of truthmaker semantics, these
-    results can be understood as results about (a certain kind of)
-    inexact truthmaker semantics.
-  author:
+- author:
+  - family: Moltmann
+    given: Friederike
+  container-title: Theoretical Linguistics
+  id: "TMS:MOLTBC"
+  issue: 1-2
+  issued: 2021
+  keyword: linguistics, exact truthmakers
+  page: 155-187
+  title: "Truthmaker-based content: Syntactic, semantic, and ontological
+    contexts"
+  title-short: Truthmaker-based content
+  type: article-journal
+  volume: 47
+- author:
+  - family: Moltmann
+    given: Friederike
+  container-title: Synthese
+  id: "TMS:MOLTPT"
+  issue: 2
+  issued: 2021
+  keyword: linguistics, exact truthmakers
+  page: 689-716
+  title: Truth predicates, truth bearers, and their variants
+  type: article-journal
+  volume: 198
+- author:
   - family: Odintsov
     given: Sergei
   - family: Wansing
@@ -1049,7 +1059,7 @@ references:
   doi: 10.1007/s10992-020-09558-5
   id: "TMS:ODIRSA"
   issued: 2021
-  keyword: logic, modality, inexact truthmaking, theory
+  keyword: hyperintensionality, exact truthmakers
   page: 33-56
   title: Routley star and hyperintensionality
   type: article-journal
@@ -1060,39 +1070,32 @@ references:
   genre: Master's thesis
   id: "TMS:PASAAT"
   issued: 2016
-  keyword: philosophy, theory, exact truthmaking
-  other-ids: "tms-pastan:2016"
+  keyword: philosophy of language, exact truthmakers
   publisher: University of Amsterdam, Institute for Logic, Language,;
     Computation
   title: Another approach to truthmaker semantics
   type: thesis
   url: "https://eprints.illc.uva.nl/975/1/MoL-2016-03.text.pdf"
-- annote: Relates truthmaking to relevant entailment (in particular, the
-    first-degree fragment of **RM**). As such, it can be seen as a
-    predecessor of the ideas of exact truthmaker semantics.
-  author:
+- author:
   - family: Restall
     given: Greg
   container-title: Australasian Journal of Philosophy
   doi: 10.1080/00048409612347331
   id: "TMS:RESTEN"
   issued: 1996
-  keyword: philosophy, logic, relevance, theory
-  other-ids: "tms-restall:1996"
+  keyword: precursor, relevant logic, inexact truthmakers
   page: 331-40
   title: Truthmakers, entailment, and necessity
   type: article-journal
   volume: 74
-- annote: Provides a model for the proposal from (Restall 1996).
-  author:
+- author:
   - family: Restall
     given: Greg
   container-title: Logique et Analyse
   id: "TMS:RESMTR"
   issue: 169/170
   issued: 2000
-  keyword: philosophy, logic, relevance
-  other-ids: "tms-restall:2000"
+  keyword: precursor, relevant logic, inexact truthmakers
   page: 211-230
   title: Modelling truthmaking
   type: article-journal
@@ -1104,7 +1107,7 @@ references:
   genre: Master's thesis
   id: "TMS:ROSATS"
   issued: 2019
-  other-ids: "tms-rosella:2019"
+  keyword: modal logic, subject matter, exact truthmakers
   publisher: University of Amsterdam, Institute for Logic, Language,;
     Computation
   title: A truthmaker semantics approach to modal logic
@@ -1118,32 +1121,79 @@ references:
   id: "TMS:ROTYSM"
   issue: 3
   issued: 2017
-  keyword: philosophy, inexact truthmaking, content
-  other-ids: "tms-rothschild:2017"
+  keyword: philosophy of language, subject matter, exact truthmakers
   page: 787-796
   title: Yablo's semantic machinery
   type: article-journal
   volume: 174
-- annote: Deals with hyperintensional logics in general but contains a
-    quick remark (3.1) on truthmaker semantics.
-  author:
+- author:
+  - family: Saint-Germier
+    given: Pierre
+  container-title: Logic in high definition. Trends in logical semantics
+  doi: 10.1007/978-3-030-53487-5_6
+  editor:
+  - family: Giodani
+    given: Alessandro
+  - family: Milanowski
+    given: Jacek
+  id: "TMS:SAIHII"
+  issued: 2021
+  keyword: philosophy of mind, exact truthmakers
+  page: 77-115
+  publisher: Springer
+  title: Hyperintensionality in imagination
+  type: paper-conference
+- author:
+  - family: Santorio
+    given: Paolo
+  container-title: Journal of Philosophy
+  doi: 10.5840/jphil20181151030
+  id: "TMS:SANAAT"
+  issue: 10
+  issued: 2018
+  keyword: conditional logic, philosophy of language, exact truthmakers
+  page: 513-549
+  title: Alternatives and truthmakers in conditional semantics
+  type: article-journal
+  volume: 115
+- author:
   - family: Sedlár
     given: Igor
   container-title: Synthese
   doi: 10.1007/s11229-018-02076-7
   id: "TMS:SEDHLF"
   issued: 2019
-  keyword: logic, theory, exact truthmaking
-  other-ids: tms-sedlar-2019
+  keyword: hyperintensional logic, exact truthmakers
   page: 1-24
   publisher: Springer
   title: Hyperintensional logics for everyone
   type: article-journal
-- annote: In this article, the exact truthmaker clauses occur in the
-    context of a semantics for relevant deontic logic (p. 197). There is
-    no citation of neither van Fraassen's nor Fine's work. It's unclear
-    whether the exactness idea plays an important role in the paper.
-  author:
+- author:
+  - family: Sendłak
+    given: Maciej
+  container-title: Synthese
+  doi: 10.1007/s11229-022-03541-0
+  id: "TMS:SENTFM"
+  issue: 55
+  issued: 2020
+  keyword: metaphysics, exact truthmakers
+  title: Truthmaking for meinongians
+  type: article-journal
+  volume: 200
+- author:
+  - family: Schumener
+    given: Erica
+  container-title: British Journal for the Philosophy of Science
+  doi: 10.1093/bjps/axx020
+  id: "TMS:SCHLON"
+  issued: 2019
+  keyword: philosophy of science, metaphysics, inexact, truthmakers
+    exact, truthmakers
+  page: 787-815
+  title: Laws of nature, explanation, and semantic circularity
+  type: article-journal
+  volume: 70
+- author:
   - family: Stelzner
     given: Werner
   container-title: Journal of Philosophical logic
@@ -1151,11 +1201,22 @@ references:
   id: "TMS:STELRDL"
   issue: 2
   issued: 1992
-  keyword: logic, relevance, normativity
+  keyword: precursor, relevant logic, deontic logic, exact truthmakers
   page: 193-216
   title: Relevant deontic logic
   type: article-journal
   volume: 21
+- author:
+  - family: Vogt
+    given: Lisa
+  container-title: Inquiry
+  doi: 10.1080/0020174X.2021.1899044
+  id: "TMS:VOGTPF"
+  issued: forthcoming
+  keyword: metaphysics, exact truthmakers
+  status: forthcoming
+  title: Two problems for zylstra's truthmaker semantics for essence
+  type: article-journal
 - author:
   - family: Weiss
     given: Yale
@@ -1164,15 +1225,25 @@ references:
   id: "TMS:WEISEF"
   issue: 4
   issued: 2019
-  keyword: philosophy, content, conditionals, exact truthmaking
-  other-ids: tms-weiss-2019
+  keyword: conditional logics, content logics, exact truthmakers
   page: 307-322
   title: Sextus empiricus' fourth conditional and containment logic
   type: article-journal
   volume: 40
-- annote: An inexact truthmaker approach to indicative conditionals,
-    which relies on minimal truthmakers.
-  author:
+- author:
+  - family: Weiss
+    given: Yale
+  container-title: Logica Universialis
+  doi: 10.1007/s11787-021-00273-6
+  id: "TMS:WEIARO"
+  issued: 2021
+  keyword: intuitionistic logic, relevant logic, exact truthmakers
+  page: 171-191
+  title: A reinterpretation of the semilattice semantics with
+    applications
+  type: article-journal
+  volume: 15
+- author:
   - family: Yablo
     given: Stephen
   container-title: Analytic Philosophy
@@ -1180,27 +1251,63 @@ references:
   id: "TMS:YABIAA"
   issue: 3
   issued: 2016
-  keyword: philosophy, conditionals, inexact truthmaking
-  other-ids: "tms-yablo:2016"
+  keyword: conditional logics, exact truthmakers
   page: 175-213
   title: "Ifs, ands, and buts: An incremental truthmaker semantics for
     indicative conditionals"
   title-short: Ifs, ands, and buts
   type: article-journal
   volume: 57
-- annote: §4 contains an extensive discussion of truthmakers as a
-    semantic framework. Yablo favors inexact truthmakers over exact
-    truthmakers. His theory of aboutness involves *minimal* truthmakers.
-  author:
+- author:
   - family: Yablo
     given: Stephen
   id: "TMS:YABABO"
   issued: 2014
-  keyword: philosophy, content, inexact truthmaking
-  other-ids: "tms-yablo:2014"
+  keyword: philosophy of language, subject matter, inexact truthmakers,
+    exact truthmakers
   publisher: Princeton University Press
   publisher-place: Princeton, NJ
   title: Aboutness
   type: book
+- author:
+  - family: Yablo
+    given: Stephen
+  container-title: Philosophical Studies
+  doi: 10.1007/s11098-017-0922-5
+  id: "TMS:YABRTF"
+  issue: 1495
+  issued: 2018
+  keyword: philosophy of language, inexact truthmakers, exact
+    truthmakers
+  page: 1512
+  title: Reply to Fine on aboutness
+  type: article-journal
+  volume: 175
+- author:
+  - family: Zavaleta
+    given: Martin Abreu
+  container-title: Synthese
+  doi: 10.1007/s11229-020-02866-y
+  id: "TMS:ZAVDLO"
+  issue: 1--2
+  issued: 2021
+  keyword: philosophy of language, exact truthmakers
+  page: 1899-1932
+  title: Disagreement lost
+  type: article-journal
+  volume: 199
+- author:
+  - family: Zylstra
+    given: Justin
+  container-title: Inquiry
+  doi: 10.1080/0020174x.2019.1570865
+  id: "TMS:ZYLMSF"
+  issue: 8
+  issued: 2019
+  keyword: metaphysics, exact truthmakers
+  page: 859-876
+  title: Making semantics for essence
+  type: article-journal
+  volume: 62
 ---
 
