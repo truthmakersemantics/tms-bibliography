@@ -257,6 +257,7 @@ references:
   - family: Ferguson
     given: Thomas Macaulay
   container-title: Meaning and proscription in formal logic
+  doi: 10.1007/978-3-319-70821-8_3
   id: "TMS:FERMCO"
   issued: 2017
   keyword: metaphysics, exact truthmakers
@@ -426,6 +427,7 @@ references:
   - family: Fine
     given: Kit
   container-title: A companion to the philosophy of language
+  doi: 10.1002/9781118972090.ch22
   edition: 2
   editor:
   - family: Hale
@@ -556,13 +558,19 @@ references:
   - dropping-particle: van
     family: Fraassen
     given: Bas C
+  container-title: Logic and ontology
+  editor:
+  - family: Kunitz
+    given: Milton Karl
   id: "TMS:FRAEIA"
   issued: 1973
   keyword: precursor, linguistics, inexact truthmakers, exact
     truthmakers
+  page: 101-131
+  publisher: New York University Press
+  publisher-place: New York, NY
   title: Extension, intension, and comprehension
-  type: article-journal
-  url: "https://www.princeton.edu/\\~fraassen/abstract/Comprehension.pdf"
+  type: chapter
 - author:
   - dropping-particle: van
     family: Fraassen
@@ -606,18 +614,18 @@ references:
     given: Hüseyin
   container-title: Linguistics and Philosophy
   id: "TMS:GUNCHA"
-  issued: forthcoming
   keyword: conditional logic, exact truthmakers
   page: 1-41
-  status: forthcoming
   title: Counterfactuals, hyperintensionality and hurford phenomena
   type: article-journal
 - author:
   - family: Hale
     given: Bob
   container-title: Essence and existence. Selected essays
+  doi: 10.1093/oso/9780198854296.003.0007
   id: "TMS:HALWMT"
   issued: 2020
+  keyword: predicate logic, exact truthmakers
   page: 104-123
   publisher: Oxford University Press
   title: What makes true universal statements true?
@@ -626,8 +634,10 @@ references:
   - family: Hale
     given: Bob
   container-title: Essence and existence. Selected essays
+  doi: 10.1093/oso/9780198854296.003.0008
   id: "TMS:HALETM"
   issued: 2020
+  keyword: metaphysics, modal logic, exact truthmakers
   page: 124-140
   publisher: Oxford University Press
   title: Exact truthmakers, modality, and essence
@@ -756,6 +766,7 @@ references:
   doi: 10.1007/s11098-020-01474-3
   id: "TMS:KAPTEO"
   issued: 2021
+  keyword: philosophy of logic, exact truthmakers
   page: 1267-1284
   title: The explanation of logical theorems and reductive truthmakers
   type: article-journal
@@ -768,6 +779,7 @@ references:
   id: "TMS:KAUOTP"
   issue: 3-4
   issued: 2020
+  keyword: linguistics, exact truthhmaking
   page: 253-266
   title: On the performance of modal objects
   type: article-journal
@@ -868,12 +880,13 @@ references:
   type: article-journal
   volume: 103
 - author:
-  - family: Kraämer
+  - family: Krämer
     given: Stephan
   container-title: Synthese
   doi: 10.1007/s11229-019-02154-4
   id: "TMS:KRAGTE"
   issued: 2021
+  keyword: equivalence, content, exact truthmaking
   page: 1643001683
   title: Ground-theoretic equivalence
   type: article-journal
@@ -896,6 +909,7 @@ references:
   - family: Leitgeb
     given: Hannes
   container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-018-9467-0
   id: "TMS:LEIHAS"
   issue: 2
   issued: 2019
@@ -1028,6 +1042,7 @@ references:
   - family: Moltmann
     given: Friederike
   container-title: Theoretical Linguistics
+  doi: 10.1515/tl-2021-2012
   id: "TMS:MOLTBC"
   issue: 1-2
   issued: 2021
@@ -1042,6 +1057,7 @@ references:
   - family: Moltmann
     given: Friederike
   container-title: Synthese
+  doi: 10.1007/s11229-018-1814-8
   id: "TMS:MOLTPT"
   issue: 2
   issued: 2021
@@ -1233,7 +1249,7 @@ references:
 - author:
   - family: Weiss
     given: Yale
-  container-title: Logica Universialis
+  container-title: Logica Universalis
   doi: 10.1007/s11787-021-00273-6
   id: "TMS:WEIARO"
   issued: 2021

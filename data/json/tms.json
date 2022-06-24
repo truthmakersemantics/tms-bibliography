@@ -464,6 +464,7 @@
     "volume": "50"
   },
   {
+    "DOI": "10.1007/978-3-319-70821-8_3",
     "author": [
       {
         "family": "Ferguson",
@@ -773,6 +774,7 @@
     "volume": "46"
   },
   {
+    "DOI": "10.1002/9781118972090.ch22",
     "author": [
       {
         "family": "Fine",
@@ -1014,12 +1016,18 @@
     "volume": "66"
   },
   {
-    "URL": "https://www.princeton.edu/~fraassen/abstract/Comprehension.pdf",
     "author": [
       {
         "dropping-particle": "van",
         "family": "Fraassen",
         "given": "Bas C"
+      }
+    ],
+    "container-title": "Logic and ontology",
+    "editor": [
+      {
+        "family": "Kunitz",
+        "given": "Milton Karl"
       }
     ],
     "id": "TMS:FRAEIA",
@@ -1031,8 +1039,11 @@
       ]
     },
     "keyword": "precursor, linguistics, inexact truthmakers, exact truthmakers",
+    "page": "101-131",
+    "publisher": "New York University Press",
+    "publisher-place": "New York, NY",
     "title": "Extension, intension, and comprehension",
-    "type": "article-journal"
+    "type": "chapter"
   },
   {
     "URL": "http://www.jstor.org/stable/4319572",
@@ -1113,16 +1124,13 @@
     ],
     "container-title": "Linguistics and Philosophy",
     "id": "TMS:GUNCHA",
-    "issued": {
-      "date-parts": []
-    },
     "keyword": "conditional logic, exact truthmakers",
     "page": "1-41",
-    "status": "forthcoming",
     "title": "Counterfactuals, hyperintensionality and hurford phenomena",
     "type": "article-journal"
   },
   {
+    "DOI": "10.1093/oso/9780198854296.003.0007",
     "author": [
       {
         "family": "Hale",
@@ -1138,12 +1146,14 @@
         ]
       ]
     },
+    "keyword": "predicate logic, exact truthmakers",
     "page": "104-123",
     "publisher": "Oxford University Press",
     "title": "What makes true universal statements true?",
     "type": "chapter"
   },
   {
+    "DOI": "10.1093/oso/9780198854296.003.0008",
     "author": [
       {
         "family": "Hale",
@@ -1159,6 +1169,7 @@
         ]
       ]
     },
+    "keyword": "metaphysics, modal logic, exact truthmakers",
     "page": "124-140",
     "publisher": "Oxford University Press",
     "title": "Exact truthmakers, modality, and essence",
@@ -1396,6 +1407,7 @@
         ]
       ]
     },
+    "keyword": "philosophy of logic, exact truthmakers",
     "page": "1267-1284",
     "title": "The explanation of logical theorems and reductive truthmakers",
     "type": "article-journal",
@@ -1419,6 +1431,7 @@
         ]
       ]
     },
+    "keyword": "linguistics, exact truthhmaking",
     "page": "253-266",
     "title": "On the performance of modal objects",
     "type": "article-journal",
@@ -1601,7 +1614,7 @@
     "DOI": "10.1007/s11229-019-02154-4",
     "author": [
       {
-        "family": "Kraämer",
+        "family": "Krämer",
         "given": "Stephan"
       }
     ],
@@ -1614,6 +1627,7 @@
         ]
       ]
     },
+    "keyword": "equivalence, content, exact truthmaking",
     "page": "1643001683",
     "title": "Ground-theoretic equivalence",
     "type": "article-journal",
@@ -1644,6 +1658,7 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.1007/s10992-018-9467-0",
     "author": [
       {
         "family": "Leitgeb",
@@ -1878,6 +1893,7 @@
     "volume": "46"
   },
   {
+    "DOI": "10.1515/tl-2021-2012",
     "author": [
       {
         "family": "Moltmann",
@@ -1902,6 +1918,7 @@
     "volume": "47"
   },
   {
+    "DOI": "10.1007/s11229-018-1814-8",
     "author": [
       {
         "family": "Moltmann",
@@ -2266,7 +2283,7 @@
         "given": "Yale"
       }
     ],
-    "container-title": "Logica Universialis",
+    "container-title": "Logica Universalis",
     "id": "TMS:WEIARO",
     "issued": {
       "date-parts": [
