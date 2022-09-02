@@ -1228,6 +1228,26 @@
     "volume": "46"
   },
   {
+    "DOI": "10.1007/s10992-022-09673-5",
+    "author": [
+      {
+        "family": "Hlobil",
+        "given": "Ulf"
+      }
+    ],
+    "container-title": "Journal of Philosophical Logic",
+    "id": "TMS:HLOTLO",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "title": "The laws of thought and the laws of truth as two sides of one coin",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/s10992-019-09537-5",
     "author": [
       {
