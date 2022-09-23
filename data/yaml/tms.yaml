@@ -155,6 +155,17 @@ references:
   title: A plea for inexact truthmaking
   type: article-journal
 - author:
+  - family: DeRosset
+    given: Louis
+  - family: Fine
+    given: Kit
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-022-09676-2
+  id: "TMS:DERASF"
+  issued: 2022
+  title: A semantics for the impure logic of ground
+  type: article-journal
+- author:
   - family: Elgin
     given: Samuel
   container-title: Erkenntnis

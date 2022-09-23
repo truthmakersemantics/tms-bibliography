@@ -280,6 +280,30 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.1007/s10992-022-09676-2",
+    "author": [
+      {
+        "family": "DeRosset",
+        "given": "Louis"
+      },
+      {
+        "family": "Fine",
+        "given": "Kit"
+      }
+    ],
+    "container-title": "Journal of Philosophical Logic",
+    "id": "TMS:DERASF",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "title": "A semantics for the impure logic of ground",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/s10670-019-00189-0",
     "author": [
       {
