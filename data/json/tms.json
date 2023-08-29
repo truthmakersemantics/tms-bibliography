@@ -1,5 +1,29 @@
 [
   {
+    "DOI": "https://doi.org/10.1007/s11229-023-04268-2",
+    "author": [
+      {
+        "family": "Abreu Zavaleta",
+        "given": "Martín"
+      }
+    ],
+    "container-title": "Synthese",
+    "id": "TMS:ABRPUN",
+    "issue": "41",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "keyword": "exact truthmakers",
+    "page": "1-32",
+    "title": "Partial understanding",
+    "type": "article-journal",
+    "volume": "202"
+  },
+  {
     "author": [
       {
         "family": "Anglberger",
@@ -10,7 +34,7 @@
         "given": "Federico LG"
       },
       {
-        "family": "Korbmacher",
+        "family": " Korbmacher",
         "given": "Johannes"
       }
     ],
@@ -1096,7 +1120,7 @@
     "volume": "43"
   },
   {
-    "URL": "http://www.illc.uva.nl/Research/Publications/Reports/MoL-2016-24.text.pdf",
+    "URL": "\n         http://www.illc.uva.nl/Research/Publications/Reports/MoL-2016-24.text.pdf\n         ",
     "author": [
       {
         "family": "Gioulatou",
@@ -2159,6 +2183,38 @@
     "publisher": "Springer",
     "title": "Hyperintensionality in imagination",
     "type": "paper-conference"
+  },
+  {
+    "DOI": "10.26686/ajl.v19i5.7420",
+    "author": [
+      {
+        "family": "Saitta",
+        "given": "Vita"
+      },
+      {
+        "family": "Plebani",
+        "given": "Matteo"
+      },
+      {
+        "family": "Rosella",
+        "given": "Giuliano"
+      }
+    ],
+    "container-title": "The Australasian Journal of Logic",
+    "id": "TMS:SAITIA",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "keyword": "logic, modal logic, exact truthmakers",
+    "page": "214-253",
+    "title": "Truthmakers, incompatibility, and modality",
+    "type": "article-journal",
+    "volume": "19"
   },
   {
     "DOI": "10.5840/jphil20181151030",

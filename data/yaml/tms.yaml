@@ -2,11 +2,24 @@
 nocite: "[@*]"
 references:
 - author:
+  - family: Abreu Zavaleta
+    given: Martín
+  container-title: Synthese
+  doi: "https://doi.org/10.1007/s11229-023-04268-2"
+  id: "TMS:ABRPUN"
+  issue: 41
+  issued: 2023
+  keyword: exact truthmakers
+  page: 1-32
+  title: Partial understanding
+  type: article-journal
+  volume: 202
+- author:
   - family: Anglberger
     given: Albert J. J.
   - family: Faroldi
     given: Federico LG
-  - family: Korbmacher
+  - family:  Korbmacher
     given: Johannes
   container-title: Deontic logic and normative systems. 13th
     international conference, DEON 2016, bayeruth, germany, july 18-21,
@@ -608,7 +621,9 @@ references:
     Computation
   title: Hyperintensionality
   type: thesis
-  url: "http://www.illc.uva.nl/Research/Publications/Reports/MoL-2016-24.text.pdf"
+  url: "
+    http://www.illc.uva.nl/Research/Publications/Reports/MoL-2016-24.text.pdf
+    "
 - author:
   - family: Güngör
     given: Hüseyin
@@ -1180,6 +1195,23 @@ references:
   publisher: Springer
   title: Hyperintensionality in imagination
   type: paper-conference
+- author:
+  - family: Saitta
+    given: Vita
+  - family: Plebani
+    given: Matteo
+  - family: Rosella
+    given: Giuliano
+  container-title: The Australasian Journal of Logic
+  doi: 10.26686/ajl.v19i5.7420
+  id: "TMS:SAITIA"
+  issue: 5
+  issued: 2022
+  keyword: logic, modal logic, exact truthmakers
+  page: 214-253
+  title: Truthmakers, incompatibility, and modality
+  type: article-journal
+  volume: 19
 - author:
   - family: Santorio
     given: Paolo
