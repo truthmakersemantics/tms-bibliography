@@ -2399,6 +2399,27 @@
     "volume": "15"
   },
   {
+    "DOI": "10.1007/s11098-023-02049-8",
+    "author": [
+      {
+        "family": "Werner",
+        "given": "Jonas"
+      }
+    ],
+    "container-title": "Philosophical Studies",
+    "id": "TMS:WERPGI",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "keyword": "metaphysical grounding",
+    "title": "Partial grounding, identity, and nothing-over-and-aboveness",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1111/phib.12081",
     "author": [
       {

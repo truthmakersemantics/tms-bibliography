@@ -1313,6 +1313,16 @@ references:
   type: article-journal
   volume: 15
 - author:
+  - family: Werner
+    given: Jonas
+  container-title: Philosophical Studies
+  doi: 10.1007/s11098-023-02049-8
+  id: "TMS:WERPGI"
+  issued: 2023
+  keyword: metaphysical grounding
+  title: Partial grounding, identity, and nothing-over-and-aboveness
+  type: article-journal
+- author:
   - family: Yablo
     given: Stephen
   container-title: Analytic Philosophy
