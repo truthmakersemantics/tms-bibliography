@@ -1276,6 +1276,20 @@ references:
   type: article-journal
   volume: 70
 - author:
+  - family: Spolaore
+    given: Giuseppe
+  - family: Iaquinto
+    given: Samuele
+  - family: Torrengo
+    given: Giuliano
+  container-title: Erkenntnis
+  doi: 10.1007/s10670-023-00754-8
+  id: "TMS:SPOTFR"
+  issued: forthcoming
+  status: forthcoming
+  title: Taste fragmentalism
+  type: article-journal
+- author:
   - family: Stelzner
     given: Werner
   container-title: Journal of Philosophical logic

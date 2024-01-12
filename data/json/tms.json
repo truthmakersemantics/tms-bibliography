@@ -2337,6 +2337,31 @@
     "volume": "70"
   },
   {
+    "DOI": "10.1007/s10670-023-00754-8",
+    "author": [
+      {
+        "family": "Spolaore",
+        "given": "Giuseppe"
+      },
+      {
+        "family": "Iaquinto",
+        "given": "Samuele"
+      },
+      {
+        "family": "Torrengo",
+        "given": "Giuliano"
+      }
+    ],
+    "container-title": "Erkenntnis",
+    "id": "TMS:SPOTFR",
+    "issued": {
+      "date-parts": []
+    },
+    "status": "forthcoming",
+    "title": "Taste fragmentalism",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/BF00248639",
     "author": [
       {
