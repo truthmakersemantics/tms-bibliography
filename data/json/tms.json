@@ -1570,14 +1570,19 @@
     ],
     "container-title": "Review of Symbolic Logic",
     "id": "TMS:KORPSF",
+    "issue": "4",
     "issued": {
-      "date-parts": []
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
     },
     "keyword": "logic, exact truthmakers",
-    "page": "1-37",
-    "status": "forthcoming",
+    "page": "1260-1295",
     "title": "Proof systems for exact entailment",
-    "type": "article-journal"
+    "type": "article-journal",
+    "volume": "16"
   },
   {
     "DOI": "doi:10.1017/can.2021.13",
