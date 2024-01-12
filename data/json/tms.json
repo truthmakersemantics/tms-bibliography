@@ -1539,6 +1539,28 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.1007/s11229-023-04401-1",
+    "author": [
+      {
+        "family": "Knudstorp",
+        "given": "SM."
+      }
+    ],
+    "container-title": "Synthese",
+    "id": "TMS:KNULOT",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "keyword": "logic, exact truthmakers",
+    "title": "Logics of truthmaker semantics: Comparison, compactness and decidability",
+    "title-short": "Logics of truthmaker semantics",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1017/S175502032200020X",
     "author": [
       {

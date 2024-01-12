@@ -838,6 +838,18 @@ references:
   title-short: Truthmaker semantics
   type: paper-conference
 - author:
+  - family: Knudstorp
+    given: SM.
+  container-title: Synthese
+  doi: 10.1007/s11229-023-04401-1
+  id: "TMS:KNULOT"
+  issued: 2023
+  keyword: logic, exact truthmakers
+  title: "Logics of truthmaker semantics: Comparison, compactness and
+    decidability"
+  title-short: Logics of truthmaker semantics
+  type: article-journal
+- author:
   - family: Korbmacher
     given: Johannes
   container-title: Review of Symbolic Logic
