@@ -175,9 +175,11 @@ references:
   container-title: Journal of Philosophical Logic
   doi: 10.1007/s10992-022-09676-2
   id: "TMS:DERASF"
-  issued: 2022
+  issued: 2023
+  page: 415-493
   title: A semantics for the impure logic of ground
   type: article-journal
+  volume: 52
 - author:
   - family: DeRosset
     given: Louis

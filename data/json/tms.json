@@ -320,12 +320,14 @@
     "issued": {
       "date-parts": [
         [
-          2022
+          2023
         ]
       ]
     },
+    "page": "415-493",
     "title": "A semantics for the impure logic of ground",
-    "type": "article-journal"
+    "type": "article-journal",
+    "volume": "52"
   },
   {
     "DOI": "10.1007/s10992-023-09738-z",
