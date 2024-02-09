@@ -179,6 +179,15 @@ references:
   title: A semantics for the impure logic of ground
   type: article-journal
 - author:
+  - family: DeRosset
+    given: Louis
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-023-09738-z
+  id: "TMS:DERASF-2"
+  issued: 2024
+  title: A semantics framework the impure logic of ground
+  type: article-journal
+- author:
   - family: Elgin
     given: Samuel
   container-title: Erkenntnis
