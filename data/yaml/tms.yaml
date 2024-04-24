@@ -988,6 +988,16 @@ references:
   title: The whole truth
   type: paper-conference
 - author:
+  - family: Krämer
+    given: Stephan
+  container-title: Topoi
+  doi: 10.1007/s11245-023-09978-3
+  id: "TMS:KRAWCU"
+  issued: 2024
+  keyword: exact truthmaking
+  title: Web consequence untangled
+  type: article-journal
+- author:
   - family: Leitgeb
     given: Hannes
   container-title: Journal of Philosophical Logic

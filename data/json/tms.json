@@ -1821,6 +1821,27 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.1007/s11245-023-09978-3",
+    "author": [
+      {
+        "family": "Krämer",
+        "given": "Stephan"
+      }
+    ],
+    "container-title": "Topoi",
+    "id": "TMS:KRAWCU",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "exact truthmaking",
+    "title": "Web consequence untangled",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/s10992-018-9467-0",
     "author": [
       {
