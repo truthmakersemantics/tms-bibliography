@@ -68,6 +68,16 @@ references:
   type: article-journal
   volume: 199
 - author:
+  - family: Behrens
+    given: Singa
+  container-title: Analysis
+  doi: 10.1093/analys/anad047
+  id: "TMS:BEHASF"
+  issued: 2024
+  keyword: practical philosophy, exact truthmakers
+  title: A semantics for moral error theory
+  type: article-journal
+- author:
   - dropping-particle: van
     family: Benthem
     given: Johan

@@ -120,6 +120,27 @@
     "volume": "199"
   },
   {
+    "DOI": "10.1093/analys/anad047",
+    "author": [
+      {
+        "family": "Behrens",
+        "given": "Singa"
+      }
+    ],
+    "container-title": "Analysis",
+    "id": "TMS:BEHASF",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "practical philosophy, exact truthmakers",
+    "title": "A semantics for moral error theory",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/s10992-018-9485-y",
     "author": [
       {
