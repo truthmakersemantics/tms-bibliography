@@ -1031,6 +1031,18 @@ references:
     facts
   type: paper-conference
 - author:
+  - family: Lenta
+    given: Giorgio
+  container-title: Philosophia
+  doi: 10.1007/s11406-024-00722-8
+  id: "TMS:LENTHV"
+  issued: 2024
+  keyword: exact truthmakers
+  page: 187-201
+  title: The hyperintensional variant of kaplan's paradox
+  type: article-journal
+  volume: 52
+- author:
   - family: Leuenberger
     given: Stephan
   container-title: Philosophical Studies
