@@ -854,6 +854,16 @@ references:
   type: article-journal
   volume: 46
 - author:
+  - family: Kim
+    given: Dongwoo
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-024-09752-9
+  id: "TMS:KIMETS"
+  issued: 2024
+  keyword: modal logic, exact truthhmaking
+  title: Exact truthmaker semantics for modal logics
+  type: article-journal
+- author:
   - family: Klev
     given: Ansten
   container-title: The logica yearbook 2016
