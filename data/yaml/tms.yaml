@@ -105,6 +105,18 @@ references:
   title: Impossible worlds
   type: book
 - author:
+  - family: Bernard
+    given: Timothaée
+  - family: Champollion
+    given: Lucas
+  container-title: Journal of Semantics
+  doi: 10.1093/jos/ffad018
+  id: "TMS:BERNEA"
+  issued: 2024
+  keyword: linguistics, exact truthmakers
+  title: Negative events and compositional semantics
+  type: article-journal
+- author:
   - family: Burke
     given: Luke
   container-title: Proceedings of the sixth workshop on natural language

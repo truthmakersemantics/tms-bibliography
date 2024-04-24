@@ -192,6 +192,31 @@
     "type": "book"
   },
   {
+    "DOI": "10.1093/jos/ffad018",
+    "author": [
+      {
+        "family": "Bernard",
+        "given": "Timothaée"
+      },
+      {
+        "family": "Champollion",
+        "given": "Lucas"
+      }
+    ],
+    "container-title": "Journal of Semantics",
+    "id": "TMS:BERNEA",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "linguistics, exact truthmakers",
+    "title": "Negative events and compositional semantics",
+    "type": "article-journal"
+  },
+  {
     "URL": "https://www.aclweb.org/anthology/W19-1104.pdf",
     "author": [
       {
