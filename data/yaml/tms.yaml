@@ -245,6 +245,16 @@ references:
   type: article-journal
   volume: 199
 - author:
+  - family: Elgin
+    given: Samuel
+  container-title: Topoi
+  doi: 10.1007/s11245-023-10007-6
+  id: "TMS:ELGTLO"
+  issued: 2024
+  keyword: philosophy of science, exact truthmakers
+  title: The levels of scientific disciplines
+  type: article-journal
+- author:
   - family: Elliot
     given: Patric D.
   container-title: Theoretical Linguistics
