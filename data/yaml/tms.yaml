@@ -1217,6 +1217,15 @@ references:
   type: thesis
   url: "https://eprints.illc.uva.nl/975/1/MoL-2016-03.text.pdf"
 - author:
+  - family: Randriamahazaka
+    given: Thomas
+  container-title: Studia Logica
+  doi: 10.1007/s11225-024-10111-7
+  id: "TMS:RANDMP"
+  issued: 2024
+  title: De morgan-płonka sums
+  type: article-journal
+- author:
   - family: Restall
     given: Greg
   container-title: Australasian Journal of Philosophy

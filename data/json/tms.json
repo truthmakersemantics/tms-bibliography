@@ -2240,6 +2240,26 @@
     "type": "thesis"
   },
   {
+    "DOI": "10.1007/s11225-024-10111-7",
+    "author": [
+      {
+        "family": "Randriamahazaka",
+        "given": "Thomas"
+      }
+    ],
+    "container-title": "Studia Logica",
+    "id": "TMS:RANDMP",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "title": "De morgan-płonka sums",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1080/00048409612347331",
     "author": [
       {
