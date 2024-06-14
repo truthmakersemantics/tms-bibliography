@@ -2418,6 +2418,27 @@
     "volume": "19"
   },
   {
+    "DOI": "10.1007/s10992-024-09758-3",
+    "author": [
+      {
+        "family": "Saitta",
+        "given": "Vita"
+      }
+    ],
+    "container-title": "Journal of Philosophical Logic",
+    "id": "TMS:SAITBE",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "logic, epistemic logic",
+    "title": "Truthmaker-based epistemic logic",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.5840/jphil20181151030",
     "author": [
       {

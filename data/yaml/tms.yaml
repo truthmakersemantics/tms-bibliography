@@ -1310,6 +1310,16 @@ references:
   type: article-journal
   volume: 19
 - author:
+  - family: Saitta
+    given: Vita
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-024-09758-3
+  id: "TMS:SAITBE"
+  issued: 2024
+  keyword: logic, epistemic logic
+  title: Truthmaker-based epistemic logic
+  type: article-journal
+- author:
   - family: Santorio
     given: Paolo
   container-title: Journal of Philosophy
