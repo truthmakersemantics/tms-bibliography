@@ -1055,6 +1055,32 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.1007/s11245-024-10056-5",
+    "author": [
+      {
+        "family": "Fine",
+        "given": "Kit"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Rosset",
+        "given": "Louis"
+      }
+    ],
+    "container-title": "Topoi",
+    "id": "TMS:FINTSG",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "metaphysics, grounding",
+    "title": "Truthmaker semantics, ground, and generality",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/s10670-019-00152-z",
     "author": [
       {
