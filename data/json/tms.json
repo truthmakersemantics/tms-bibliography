@@ -280,6 +280,31 @@
     "volume": "23"
   },
   {
+    "DOI": "https://doi.org/10.1007/s10988-023-09407-z",
+    "author": [
+      {
+        "family": "Champollion",
+        "given": "Lucas"
+      },
+      {
+        "family": "Bernard",
+        "given": "Timothee"
+      }
+    ],
+    "container-title": "Linguistics and Philosophy",
+    "id": "TMS:CHANAM",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "linguistics, exact truthmakers",
+    "title": "Negation and modality in unilateral truthmaker semantics",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1111/phis.12091",
     "author": [
       {

@@ -153,6 +153,18 @@ references:
   type: article-journal
   volume: 23
 - author:
+  - family: Champollion
+    given: Lucas
+  - family: Bernard
+    given: Timothee
+  container-title: Linguistics and Philosophy
+  doi: "https://doi.org/10.1007/s10988-023-09407-z"
+  id: "TMS:CHANAM"
+  issued: 2024
+  keyword: linguistics, exact truthmakers
+  title: Negation and modality in unilateral truthmaker semantics
+  type: article-journal
+- author:
   - family: Correia
     given: Fabrice
   container-title: Philosophical Issues
