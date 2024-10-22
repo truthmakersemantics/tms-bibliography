@@ -1080,6 +1080,31 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.1007/s11245-024-10064-5",
+    "author": [
+      {
+        "family": "Fine",
+        "given": "Kit"
+      },
+      {
+        "family": "deRosset",
+        "given": "Louis"
+      }
+    ],
+    "container-title": "Topoi",
+    "id": "TMS:FINATT",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "exact truthmakers, grounding",
+    "title": "Approaches to the impure logic of ground",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/s11245-024-10056-5",
     "author": [
       {

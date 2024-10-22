@@ -583,6 +583,18 @@ references:
 - author:
   - family: Fine
     given: Kit
+  - family: deRosset
+    given: Louis
+  container-title: Topoi
+  doi: 10.1007/s11245-024-10064-5
+  id: "TMS:FINATT"
+  issued: 2024
+  keyword: exact truthmakers, grounding
+  title: Approaches to the impure logic of ground
+  type: article-journal
+- author:
+  - family: Fine
+    given: Kit
   - dropping-particle: de
     family: Rosset
     given: Louis
