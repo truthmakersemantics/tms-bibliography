@@ -1599,6 +1599,29 @@
     "type": "chapter"
   },
   {
+    "DOI": "doi.org/10.1007/s11229-024-04748-z",
+    "author": [
+      {
+        "family": "Jago",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "Synthese",
+    "id": "TMS:JAGBIT",
+    "issue": "123",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "exact truthmakers,epistemic logic",
+    "title": "Belief in truthmaker semantics",
+    "type": "article-journal",
+    "volume": "204"
+  },
+  {
     "DOI": "10.1007/s11098-020-01474-3",
     "author": [
       {

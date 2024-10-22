@@ -864,6 +864,18 @@ references:
   title: Disjunctive parts
   type: chapter
 - author:
+  - family: Jago
+    given: Mark
+  container-title: Synthese
+  doi: doi.org/10.1007/s11229-024-04748-z
+  id: "TMS:JAGBIT"
+  issue: 123
+  issued: 2024
+  keyword: exact truthmakers,epistemic logic
+  title: Belief in truthmaker semantics
+  type: article-journal
+  volume: 204
+- author:
   - family: Kappes
     given: Yannic
   container-title: Philosophical Studies
