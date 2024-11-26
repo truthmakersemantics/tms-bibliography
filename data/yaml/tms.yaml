@@ -1431,6 +1431,16 @@ references:
   type: article-journal
   volume: 200
 - author:
+  - family: Silva
+    given: Francisca
+  container-title: Topoi
+  doi: 10.1007/s11245-024-10106-y
+  id: "TMS:SILWTS"
+  issued: 2024
+  keyword: exact truthmakers, metaphysics
+  title: What the states of truthmaker semantics could (not) be
+  type: article-journal
+- author:
   - family: Spolaore
     given: Giuseppe
   - family: Iaquinto
