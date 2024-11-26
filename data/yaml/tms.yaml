@@ -1266,6 +1266,18 @@ references:
   type: thesis
   url: "https://eprints.illc.uva.nl/975/1/MoL-2016-03.text.pdf"
 - author:
+  - family: Porello
+    given: Daniele
+  - family: Gonella
+    given: Giovanni
+  container-title: Topoi
+  doi: 10.1007/s11245-024-10084-1
+  id: "TMS:PORTMB"
+  issued: 2024
+  keyword: exact truthmakers
+  title: The mereological basis of truthmaker semantics
+  type: article-journal
+- author:
   - family: Randriamahazaka
     given: Thomas
   container-title: Studia Logica

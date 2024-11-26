@@ -2339,6 +2339,31 @@
     "type": "thesis"
   },
   {
+    "DOI": "10.1007/s11245-024-10084-1",
+    "author": [
+      {
+        "family": "Porello",
+        "given": "Daniele"
+      },
+      {
+        "family": "Gonella",
+        "given": "Giovanni"
+      }
+    ],
+    "container-title": "Topoi",
+    "id": "TMS:PORTMB",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "exact truthmakers",
+    "title": "The mereological basis of truthmaker semantics",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/s11225-024-10111-7",
     "author": [
       {
