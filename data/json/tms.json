@@ -2836,6 +2836,27 @@
     "volume": "175"
   },
   {
+    "DOI": "10.1007/s12136-024-00618-y",
+    "author": [
+      {
+        "family": "Zamani",
+        "given": "Mohsen"
+      }
+    ],
+    "container-title": "Acta Analytica",
+    "id": "TMS:ZAMTSD",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "exact truthmakers",
+    "title": "Truthmaker semantics, disjunction, and fundamentals",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/s11229-020-02866-y",
     "author": [
       {

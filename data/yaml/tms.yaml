@@ -1533,6 +1533,16 @@ references:
   type: article-journal
   volume: 175
 - author:
+  - family: Zamani
+    given: Mohsen
+  container-title: Acta Analytica
+  doi: 10.1007/s12136-024-00618-y
+  id: "TMS:ZAMTSD"
+  issued: 2024
+  keyword: exact truthmakers
+  title: Truthmaker semantics, disjunction, and fundamentals
+  type: article-journal
+- author:
   - family: Zavaleta
     given: Martin Abreu
   container-title: Synthese
