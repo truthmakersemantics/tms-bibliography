@@ -2587,6 +2587,29 @@
     "volume": "115"
   },
   {
+    "DOI": "10.1093/bjps/axx020",
+    "author": [
+      {
+        "family": "Schumener",
+        "given": "Erica"
+      }
+    ],
+    "container-title": "British Journal for the Philosophy of Science",
+    "id": "TMS:SCHLON",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "keyword": "philosophy of science, metaphysics, inexact, truthmakers exact, truthmakers",
+    "page": "787-815",
+    "title": "Laws of nature, explanation, and semantic circularity",
+    "type": "article-journal",
+    "volume": "70"
+  },
+  {
     "DOI": "10.1007/s11229-018-02076-7",
     "author": [
       {
@@ -2631,29 +2654,6 @@
     "title": "Truthmaking for meinongians",
     "type": "article-journal",
     "volume": "200"
-  },
-  {
-    "DOI": "10.1093/bjps/axx020",
-    "author": [
-      {
-        "family": "Schumener",
-        "given": "Erica"
-      }
-    ],
-    "container-title": "British Journal for the Philosophy of Science",
-    "id": "TMS:SCHLON",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "keyword": "philosophy of science, metaphysics, inexact, truthmakers exact, truthmakers",
-    "page": "787-815",
-    "title": "Laws of nature, explanation, and semantic circularity",
-    "type": "article-journal",
-    "volume": "70"
   },
   {
     "DOI": "10.1007/s10670-023-00754-8",

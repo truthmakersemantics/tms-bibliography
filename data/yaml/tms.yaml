@@ -1394,6 +1394,19 @@ references:
   type: article-journal
   volume: 115
 - author:
+  - family: Schumener
+    given: Erica
+  container-title: British Journal for the Philosophy of Science
+  doi: 10.1093/bjps/axx020
+  id: "TMS:SCHLON"
+  issued: 2019
+  keyword: philosophy of science, metaphysics, inexact, truthmakers
+    exact, truthmakers
+  page: 787-815
+  title: Laws of nature, explanation, and semantic circularity
+  type: article-journal
+  volume: 70
+- author:
   - family: Sedlár
     given: Igor
   container-title: Synthese
@@ -1417,19 +1430,6 @@ references:
   title: Truthmaking for meinongians
   type: article-journal
   volume: 200
-- author:
-  - family: Schumener
-    given: Erica
-  container-title: British Journal for the Philosophy of Science
-  doi: 10.1093/bjps/axx020
-  id: "TMS:SCHLON"
-  issued: 2019
-  keyword: philosophy of science, metaphysics, inexact, truthmakers
-    exact, truthmakers
-  page: 787-815
-  title: Laws of nature, explanation, and semantic circularity
-  type: article-journal
-  volume: 70
 - author:
   - family: Spolaore
     given: Giuseppe
