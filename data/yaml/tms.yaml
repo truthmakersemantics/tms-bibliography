@@ -1136,6 +1136,16 @@ references:
   title: Experiential attitutes are propositional
   type: article-journal
 - author:
+  - family: Litland
+    given: Jon Erling
+  container-title: Topoi
+  doi: 10.1007/s11245-024-10094-z
+  id: "TMS:LITTSF"
+  issued: 2024
+  keyword: intuitionistic logic, modal logic, exact truthmakers
+  title: Truthmaker semantics for intuitionistic modal logic
+  type: article-journal
+- author:
   - family: Moltmann
     given: Friederike
   container-title: Act-based conceptions of propositional content.

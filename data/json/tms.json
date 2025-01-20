@@ -2106,6 +2106,27 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.1007/s11245-024-10094-z",
+    "author": [
+      {
+        "family": "Litland",
+        "given": "Jon Erling"
+      }
+    ],
+    "container-title": "Topoi",
+    "id": "TMS:LITTSF",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "intuitionistic logic, modal logic, exact truthmakers",
+    "title": "Truthmaker semantics for intuitionistic modal logic",
+    "type": "article-journal"
+  },
+  {
     "author": [
       {
         "family": "Moltmann",
