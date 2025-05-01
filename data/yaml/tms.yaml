@@ -153,6 +153,21 @@ references:
   type: article-journal
   volume: 23
 - author:
+  - family: Cecconi
+    given: Alessandro
+  - family: Correia
+    given: Fabrice
+  - family: Glazier
+    given: Martin
+  container-title: Topoi
+  doi: 10.1007/s11245-025-10201-8
+  id: "TMS:CCGITS"
+  issued: 2025
+  keyword: philosophy, exact truthmakers
+  title: "Introduction: Truthmaker semantics: What, what for, and how?"
+  title-short: Introduction
+  type: article-journal
+- author:
   - family: Champollion
     given: Lucas
   - family: Bernard

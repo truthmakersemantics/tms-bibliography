@@ -280,6 +280,36 @@
     "volume": "23"
   },
   {
+    "DOI": "10.1007/s11245-025-10201-8",
+    "author": [
+      {
+        "family": "Cecconi",
+        "given": "Alessandro"
+      },
+      {
+        "family": "Correia",
+        "given": "Fabrice"
+      },
+      {
+        "family": "Glazier",
+        "given": "Martin"
+      }
+    ],
+    "container-title": "Topoi",
+    "id": "TMS:CCGITS",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "keyword": "philosophy, exact truthmakers",
+    "title": "Introduction: Truthmaker semantics: What, what for, and how?",
+    "title-short": "Introduction",
+    "type": "article-journal"
+  },
+  {
     "DOI": "https://doi.org/10.1007/s10988-023-09407-z",
     "author": [
       {
