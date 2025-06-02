@@ -1406,6 +1406,21 @@ references:
   title: Truthmaker-based epistemic logic
   type: article-journal
 - author:
+  - family: Saitta
+    given: Vita
+  container-title: Synthese
+  doi: 10.1007/s11229-025-04978-9
+  id: "TMS:SAIDTT"
+  issued: 2025
+  keyword: truthmaker semantics, epistemology
+  page: 171
+  title: "Developing the total knowledge account in truthmaker
+    semantics: A bilateral approach"
+  title-short: Developing the total knowledge account in truthmaker
+    semantics
+  type: article-journal
+  volume: 205
+- author:
   - family: Santorio
     given: Paolo
   container-title: Journal of Philosophy

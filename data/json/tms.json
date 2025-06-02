@@ -2614,6 +2614,30 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.1007/s11229-025-04978-9",
+    "author": [
+      {
+        "family": "Saitta",
+        "given": "Vita"
+      }
+    ],
+    "container-title": "Synthese",
+    "id": "TMS:SAIDTT",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "keyword": "truthmaker semantics, epistemology",
+    "page": "171",
+    "title": "Developing the total knowledge account in truthmaker semantics: A bilateral approach",
+    "title-short": "Developing the total knowledge account in truthmaker semantics",
+    "type": "article-journal",
+    "volume": "205"
+  },
+  {
     "DOI": "10.5840/jphil20181151030",
     "author": [
       {
