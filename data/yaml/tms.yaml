@@ -117,6 +117,16 @@ references:
   title: Negative events and compositional semantics
   type: article-journal
 - author:
+  - family: Brast-McKie
+    given: Benjamin
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-025-09793-8
+  id: "TMS:BRACWO"
+  issued: 2025
+  keyword: exact truthmaking, counterfactual logic
+  title: Counterfactual worlds
+  type: article-journal
+- author:
   - family: Burke
     given: Luke
   container-title: Proceedings of the sixth workshop on natural language
