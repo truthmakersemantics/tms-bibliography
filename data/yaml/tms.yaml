@@ -1221,14 +1221,14 @@ references:
     Fine"
   doi: "https:doi.org/10.1093/oso/9780199652624.003.0020"
   editor:
-  - family: dumitru
-    given: mircea
+  - family: Dumitru
+    given: Mircea
   id: "TMS:MOLVOA"
   issued: 2020
   keyword: linguistics, exact truthmakers
   page: 368-394
-  publisher: oxford university press
-  publisher-place: oxford, uk
+  publisher: Oxford University Press
+  publisher-place: Oxford, UK
   title: Variable objects and truthmaking
   type: paper-conference
 - author:
