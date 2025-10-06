@@ -1215,6 +1215,33 @@ references:
   type: article-journal
   volume: 44
 - author:
+  - family: Moltman
+    given: Friederike
+  container-title: Philosophical Studies
+  doi: 10.1007/s11098-005-0898-4
+  id: "TMS:MOLETA"
+  issue: 3
+  issued: 2007
+  keyword: linguistics, exact truthmakers
+  page: 364-403
+  title: Events, tropes, and truthmaking
+  type: article-journal
+  volume: 134
+- author:
+  - family: Moltmann
+    given: Friederike
+  container-title: Journal for the Philosophy of Language, Mind, and the
+    Arts Jolma 5.2., 2024
+  doi: 10.30687/Jolma/2723-9640/2024/02/003
+  id: "TMS:MOLOTO"
+  issue: 2
+  issued: 2024
+  keyword: linguistics, truthmakers
+  page: 367-386
+  title: On the ontology and semantics of absence
+  type: article-journal
+  volume: 5
+- author:
   - family: Moltmann
     given: Friederike
   container-title: "Metaphysics, meaning, and modality: Themes from Kit
