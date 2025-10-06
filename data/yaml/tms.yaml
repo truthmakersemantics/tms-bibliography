@@ -1244,6 +1244,28 @@ references:
 - author:
   - family: Moltmann
     given: Friederike
+  doi: 10.1093/oso/ 9780190878481.001.0001
+  id: "TMS:MOLOAA"
+  issued: 2024
+  keyword: linguistics, exact truthmakers
+  publisher: Oxford University Press
+  publisher-place: Oxford, UK
+  title: Objects and attitudes
+  type: book
+- author:
+  - family: Moltmann
+    given: Friederike
+  doi: "10.1093/acprof:oso/9780199608744.001.0001"
+  id: "TMS:MOLAOA"
+  issued: 2013
+  keyword: linguistics, exact truthmakers
+  publisher: Oxford University Press
+  publisher-place: Oxford, UK
+  title: Abstract objects and the semantics of natural language
+  type: book
+- author:
+  - family: Moltmann
+    given: Friederike
   container-title: "Metaphysics, meaning, and modality: Themes from Kit
     Fine"
   doi: "https:doi.org/10.1093/oso/9780199652624.003.0020"

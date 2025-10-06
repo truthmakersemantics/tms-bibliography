@@ -2306,6 +2306,50 @@
     "volume": "5"
   },
   {
+    "DOI": "10.1093/oso/ 9780190878481.001.0001",
+    "author": [
+      {
+        "family": "Moltmann",
+        "given": "Friederike"
+      }
+    ],
+    "id": "TMS:MOLOAA",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "keyword": "linguistics, exact truthmakers",
+    "publisher": "Oxford University Press",
+    "publisher-place": "Oxford, UK",
+    "title": "Objects and attitudes",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1093/acprof:oso/9780199608744.001.0001",
+    "author": [
+      {
+        "family": "Moltmann",
+        "given": "Friederike"
+      }
+    ],
+    "id": "TMS:MOLAOA",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "keyword": "linguistics, exact truthmakers",
+    "publisher": "Oxford University Press",
+    "publisher-place": "Oxford, UK",
+    "title": "Abstract objects and the semantics of natural language",
+    "type": "book"
+  },
+  {
     "DOI": "https:doi.org/10.1093/oso/9780199652624.003.0020",
     "author": [
       {
