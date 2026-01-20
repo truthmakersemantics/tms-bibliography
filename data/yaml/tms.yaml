@@ -730,6 +730,18 @@ references:
     http://www.illc.uva.nl/Research/Publications/Reports/MoL-2016-24.text.pdf
     "
 - author:
+  - family: Giordani
+    given: Alessandro
+  - family: Saitta
+    given: Vita
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-025-09826-2
+  id: "TMS:GIOANT"
+  issued: 2026
+  keyword: modal logic, exact truthmakers
+  title: A norm-based truthmaker semantics for modal logic
+  type: article-journal
+- author:
   - family: Güngör
     given: Hüseyin
   genre: Master's thesis

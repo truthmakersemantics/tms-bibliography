@@ -1358,6 +1358,31 @@
     "type": "thesis"
   },
   {
+    "DOI": "10.1007/s10992-025-09826-2",
+    "author": [
+      {
+        "family": "Giordani",
+        "given": "Alessandro"
+      },
+      {
+        "family": "Saitta",
+        "given": "Vita"
+      }
+    ],
+    "container-title": "Journal of Philosophical Logic",
+    "id": "TMS:GIOANT",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "keyword": "modal logic, exact truthmakers",
+    "title": "A norm-based truthmaker semantics for modal logic",
+    "type": "article-journal"
+  },
+  {
     "URL": "https://philpapers.org/rec/GUNESF",
     "author": [
       {
