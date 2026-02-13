@@ -2195,12 +2195,17 @@
     "container-title": "Erkenntnis",
     "id": "TMS:LIFEAA",
     "issued": {
-      "date-parts": []
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
     },
     "keyword": "philosophy of language, exact truthmakers",
-    "status": "forthcoming",
+    "page": "293-317",
     "title": "Experiential attitutes are propositional",
-    "type": "article-journal"
+    "type": "article-journal",
+    "volume": "89"
   },
   {
     "DOI": "10.1007/s11245-024-10094-z",
