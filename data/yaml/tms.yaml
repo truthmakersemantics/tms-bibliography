@@ -1596,11 +1596,12 @@ references:
   container-title: Inquiry
   doi: 10.1080/0020174X.2021.1899044
   id: "TMS:VOGTPF"
-  issued: forthcoming
+  issued: 2024
   keyword: metaphysics, exact truthmakers
-  status: forthcoming
+  page: 289-301
   title: Two problems for zylstra's truthmaker semantics for essence
   type: article-journal
+  volume: 67
 - author:
   - family: Weiss
     given: Yale

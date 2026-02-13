@@ -2980,12 +2980,17 @@
     "container-title": "Inquiry",
     "id": "TMS:VOGTPF",
     "issued": {
-      "date-parts": []
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
     },
     "keyword": "metaphysics, exact truthmakers",
-    "status": "forthcoming",
+    "page": "289-301",
     "title": "Two problems for zylstra’s truthmaker semantics for essence",
-    "type": "article-journal"
+    "type": "article-journal",
+    "volume": "67"
   },
   {
     "DOI": "10.1080/01445340.2019.1647083",
