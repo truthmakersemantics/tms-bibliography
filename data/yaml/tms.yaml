@@ -925,6 +925,16 @@ references:
   type: article-journal
   volume: 204
 - author:
+  - family: Jago
+    given: Mark
+  container-title: Philosophical Studies
+  doi: 10.1007/s11098-026-02482-5
+  id: "TMS:JAGMIE"
+  issued: 2026
+  keyword: exact truthmakers
+  title: Making it exact
+  type: article-journal
+- author:
   - family: Kappes
     given: Yannic
   container-title: Philosophical Studies

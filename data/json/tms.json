@@ -1723,6 +1723,27 @@
     "volume": "204"
   },
   {
+    "DOI": "10.1007/s11098-026-02482-5",
+    "author": [
+      {
+        "family": "Jago",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "Philosophical Studies",
+    "id": "TMS:JAGMIE",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "keyword": "exact truthmakers",
+    "title": "Making it exact",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/s11098-020-01474-3",
     "author": [
       {
