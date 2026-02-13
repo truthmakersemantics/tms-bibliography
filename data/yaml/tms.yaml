@@ -1572,10 +1572,11 @@ references:
   container-title: Erkenntnis
   doi: 10.1007/s10670-023-00754-8
   id: "TMS:SPOTFR"
-  issued: forthcoming
-  status: forthcoming
+  issued: 2025
+  page: 1343-1361
   title: Taste fragmentalism
   type: article-journal
+  volume: 90
 - author:
   - family: Stelzner
     given: Werner

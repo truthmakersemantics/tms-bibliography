@@ -2934,11 +2934,16 @@
     "container-title": "Erkenntnis",
     "id": "TMS:SPOTFR",
     "issued": {
-      "date-parts": []
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
     },
-    "status": "forthcoming",
+    "page": "1343-1361",
     "title": "Taste fragmentalism",
-    "type": "article-journal"
+    "type": "article-journal",
+    "volume": "90"
   },
   {
     "DOI": "10.1007/BF00248639",
