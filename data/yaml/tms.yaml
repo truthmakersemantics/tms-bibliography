@@ -1591,6 +1591,18 @@ references:
   type: article-journal
   volume: 21
 - author:
+  - family: Stenwall
+    given: R.
+  container-title: Synthese
+  doi: 10.1007/s11229-026-05507-y
+  id: "TMS:STEADS"
+  issued: 2026
+  keyword: exact truthmakers, epistemology
+  page: 139
+  title: A dispositional, state-directed epistemology
+  type: article-journal
+  volume: 207
+- author:
   - family: Vogt
     given: Lisa
   container-title: Inquiry
