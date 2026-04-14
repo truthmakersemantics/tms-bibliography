@@ -217,6 +217,28 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.1007/s11245-026-10401-w",
+    "author": [
+      {
+        "family": "Brandom",
+        "given": "Robert"
+      }
+    ],
+    "container-title": "Topoi",
+    "id": "TMS:BRAATB",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "keyword": "exact truthmakers",
+    "title": "A tune beyond us, yet ourselves: Reasons and conceptual realism",
+    "title-short": "A tune beyond us, yet ourselves",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/s10992-025-09793-8",
     "author": [
       {
@@ -236,6 +258,30 @@
     "keyword": "exact truthmaking, counterfactual logic",
     "title": "Counterfactual worlds",
     "type": "article-journal"
+  },
+  {
+    "DOI": "10.1007/s10992-021-09612-w",
+    "author": [
+      {
+        "family": "Brast-McKie",
+        "given": "Benjamin"
+      }
+    ],
+    "container-title": "Journal of Philosophical Logic",
+    "id": "TMS:BRAIAA",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "keyword": "exact truthmaking, aboutness",
+    "page": "1471-1503",
+    "title": "Identity and aboutness",
+    "type": "article-journal",
+    "volume": "50"
   },
   {
     "URL": "https://www.aclweb.org/anthology/W19-1104.pdf",
@@ -3152,6 +3198,29 @@
     "title": "Reply to Fine on aboutness",
     "type": "article-journal",
     "volume": "175"
+  },
+  {
+    "DOI": "10.1007/s11229-026-05442-y",
+    "author": [
+      {
+        "family": "Yablo",
+        "given": "Steven"
+      }
+    ],
+    "container-title": "Synthese",
+    "id": "TMS:YABFGE",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "keyword": "exact truthmakers, probability, evidence",
+    "page": "150",
+    "title": "Fine-grained evidence",
+    "type": "article-journal",
+    "volume": "207"
   },
   {
     "DOI": "10.1007/s12136-024-00618-y",

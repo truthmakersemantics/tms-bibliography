@@ -117,6 +117,18 @@ references:
   title: Negative events and compositional semantics
   type: article-journal
 - author:
+  - family: Brandom
+    given: Robert
+  container-title: Topoi
+  doi: 10.1007/s11245-026-10401-w
+  id: "TMS:BRAATB"
+  issued: 2026
+  keyword: exact truthmakers
+  title: "A tune beyond us, yet ourselves: Reasons and conceptual
+    realism"
+  title-short: A tune beyond us, yet ourselves
+  type: article-journal
+- author:
   - family: Brast-McKie
     given: Benjamin
   container-title: Journal of Philosophical Logic
@@ -126,6 +138,19 @@ references:
   keyword: exact truthmaking, counterfactual logic
   title: Counterfactual worlds
   type: article-journal
+- author:
+  - family: Brast-McKie
+    given: Benjamin
+  container-title: Journal of Philosophical Logic
+  doi: 10.1007/s10992-021-09612-w
+  id: "TMS:BRAIAA"
+  issue: 6
+  issued: 2021
+  keyword: exact truthmaking, aboutness
+  page: 1471-1503
+  title: Identity and aboutness
+  type: article-journal
+  volume: 50
 - author:
   - family: Burke
     given: Luke
@@ -1690,6 +1715,18 @@ references:
   title: Reply to Fine on aboutness
   type: article-journal
   volume: 175
+- author:
+  - family: Yablo
+    given: Steven
+  container-title: Synthese
+  doi: 10.1007/s11229-026-05442-y
+  id: "TMS:YABFGE"
+  issued: 2026
+  keyword: exact truthmakers, probability, evidence
+  page: 150
+  title: Fine-grained evidence
+  type: article-journal
+  volume: 207
 - author:
   - family: Zamani
     given: Mohsen
